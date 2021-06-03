@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Reprimand to bigotism, or, Reflections on the several letters of a book called The Mistery of phanaticism wherein the dissenters are vindicated from the calumnies and whims of the author of that book.</title>
+         </titleStmt>
+         <extent>Approx. 114KB of XML-encoded text transcribed from 66 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57050</idno><idno type="EEBO-CITATION">11066779</idno>
+  <idno type="VID">46220</idno>
+  <idno type="EEBO-PROQUEST">2240909462</idno>
+  
+            <idno type="STC">Wing R1113</idno>
+            <idno type="STC">ESTC R29294</idno>
+            <idno type="OCLC">11066779</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A57050)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46220)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1430:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Reprimand to bigotism, or, Reflections on the several letters of a book called The Mistery of phanaticism wherein the dissenters are vindicated from the calumnies and whims of the author of that book.</title>
+               </titleStmt>
+               <extent>[7], 99, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Baldwin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: t.p. stained and torn; beginning-page 11 from defective Huntington Library copy spliced at end.</note>
+                  <note>Includes errata.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Mystery of phanaticism.</term>
+               <term type="topical_term">Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46220:1"/>
+            <p>A <hi>Reprimand</hi> to <hi>Bigotism;</hi> OR, REFLECTIONS ON THE Several Letters of a BOOK, Called, THE Mistery of Phanaticism.</p>
+            <p>WHEREIN The <hi>Dissenters</hi> are Vindicated from the Calumnies, and Whims of the <hi>Author</hi> of that BOOK.</p>
+            <q>
+               <p>For we are not ignorant of <hi>[His]</hi> devices, <bibl>
+                     <hi>2 Cor. 2.11.</hi>
+                  </bibl>
+               </p>
+               <p>Charity envieth not; vaunteth not it self, is not puffed up, doth not behave it self unseemly, seeketh not her own, is not easily provoked, thinketh no evil, <bibl>
+                     <hi>1 Cor. 13.4, 5.</hi>
+                  </bibl>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>A Baldwin,</hi> in <hi>Warwick-Lane,</hi> 1698.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:46220:2"/>
+            <pb facs="tcp:46220:2"/>
+            <head>THE PREFACE.</head>
+            <p>IT is not my design in the fol<g ref="char:EOLhyphen"/>lowing Reflections to recrimi<g ref="char:EOLhyphen"/>nate; and blacken the Church of <hi>England,</hi> that I might be re<g ref="char:EOLhyphen"/>veng'd on the Author of the <hi>Myste<g ref="char:EOLhyphen"/>ry of Phanaticism,</hi> for falling foul on the Dissenters. For tho' it be an easie matter to throw dirt upon any Party by publishing their Faults; by magnifying, and aggrandizing them; by laying such to their charge as they are not guilty of; and by imputing the Follies of a few, to the whole Bo<g ref="char:EOLhyphen"/>dy, which is exactly our Author's way of Writing: Yet this is so Disinge<g ref="char:EOLhyphen"/>nuous, so Ʋnchristian, and so Rude, that I scorn to imitate him in it.</p>
+            <pb facs="tcp:46220:3"/>
+            <p>He puts himself down in the Title-Page for <hi>a Divine of the Church of</hi> England. 'Tis pity he should be so; for such <hi>Bigotted Divines</hi> are the dishonour and shame of the Church. And there is nothing can more vilify and disparage their Mo<g ref="char:EOLhyphen"/>ther, than to have such ungracious Sons lurking in her Bosom, that do expose her to obloquy, contempt, and hatred; and make Men think that she hath prostituted her self to the <hi>Triple Crown,</hi> and the <hi>Lillies,</hi> to obtain so hot, and fiery a <hi>Breed.</hi>
+            </p>
+            <p>It would without doubt make for the Reputation of the Church, to frown upon those Members of it as are of so unquiet and turbulent a Spirit, as its intestine Enemies, and on the other hand, to encourage and favour the <hi>Peaceable, the Meek, and Cha<g ref="char:EOLhyphen"/>ritable,</hi> as its best Friends and Sup<g ref="char:EOLhyphen"/>ports.</p>
+            <pb facs="tcp:46220:3"/>
+            <p>And upon this account, I should not at all wonder to see <hi>this Divine, this fierce Incendiary, and Make<g ref="char:EOLhyphen"/>bate</hi> Chastised by the Pen, even of one of his <hi>own Communion.</hi> For besides the direct tendency his viru<g ref="char:EOLhyphen"/>lent Letters have to disgrace the Bo<g ref="char:EOLhyphen"/>dy he is of; He doth often wound the Church through the Dissenters sides; and many times his Censures do naturally recoil on a great num<g ref="char:EOLhyphen"/>ber of its Members.</p>
+            <p>As I have forborn all unhandsom Reflections on the <hi>Church of Eng<g ref="char:EOLhyphen"/>land</hi> in general, so I presume I shall be easily excused for reflecting now and then <hi>somewhat severely</hi> on so unworthy a part of it, as our Let<g ref="char:EOLhyphen"/>ter-writer, and his Fraternity are.</p>
+            <p>For those who promote publick Jealousies and Discord, who blow the Trumpet for Persecution, and write as if they had been <hi>Secreta<g ref="char:EOLhyphen"/>ries
+<pb facs="tcp:46220:4"/> to</hi> Draco, <hi>or an Inquisition,</hi> ought I think, to be treated with more roughness and contempt than any Men; they being Enemies to the Prosperity and Peace of their Country.</p>
+            <p>The Wisest and most Impartial Men both in Church and State, have alway dislik'd and condemn'd this uncharitable Spirit of <hi>Bigotism.</hi> Such were the Lord Chancellor <hi>Bacon,</hi> the Lord Chief Justice <hi>Hales,</hi> Bishop <hi>Wilkins,</hi> Archbishop <hi>Tillotson,</hi> Mr. <hi>Hales</hi> of <hi>Eaton Colledge,</hi> Mr. <hi>Chil<g ref="char:EOLhyphen"/>lingworth,</hi> Men of the first Rank for Learning and Ʋnderstanding, besides many others mentioned in the Book called, The <hi>Protestant Recon<g ref="char:EOLhyphen"/>ciler,</hi> a Book which was written by a worthy <hi>Dignitary of his own Church,</hi> and will sway infinitely more with all unbyassed and candid Per<g ref="char:EOLhyphen"/>sons, than the <hi>Mystery of Phanati<g ref="char:EOLhyphen"/>cism.</hi>
+               <pb facs="tcp:46220:4"/> I beg the Gentleman's par<g ref="char:EOLhyphen"/>don, that I have named this last Book in comparison with his.</p>
+            <p>When a Man takes Fire, and belches out a raging Flame upon such as hold the substance of Christianity, but dif<g ref="char:EOLhyphen"/>fer from him in points of less conse<g ref="char:EOLhyphen"/>quence and moment, he shews that he is under the prevailing influences of the Infernal Powers, and that he is set on fire not by the Spirit of God, but by Hell.</p>
+            <p>To conclude, I shall only observe farther, that in quoting of very many places of Scripture, both in his Preface and Book, he applies them so imperti<g ref="char:EOLhyphen"/>nently, as if St. <hi>Paul</hi> and the other Sacred Authors, had written on pur<g ref="char:EOLhyphen"/>pose to perswade People to be Church of <hi>England</hi> Men, and to blame such as were not so. He sets Texts of Scripture on the Rack, and puts such a force upon them, as he would
+<pb facs="tcp:46220:5"/> have laid on the Consciences of Men, to make them speak what he would have them, tho' contrary to their in<g ref="char:EOLhyphen"/>clination and meaning.</p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="letter">
+            <pb n="1" facs="tcp:46220:5"/>
+            <head>REFLECTIONS ON <hi>Letter</hi> I.</head>
+            <p>THE Author of a Book, called, The <hi>Mystery of Phanaticism,</hi> hath as a publick Incendiary, made it his design to heighten the Discord, and inflame the Animosi<g ref="char:EOLhyphen"/>ties between the Church of <hi>England,</hi> and the Dissenters, in 14 Reviling <hi>Let<g ref="char:EOLhyphen"/>ters.</hi> His main Aim seems to be at Per<g ref="char:EOLhyphen"/>secution, as appears not only from his Scurrilous Language, but also from se<g ref="char:EOLhyphen"/>veral express intimations of it, particu<g ref="char:EOLhyphen"/>larly in Page 80. and 68.</p>
+            <p>Now to correct the Luxuriancy of his Pen, and to prevent the mischiefs that may arise from it, in a Nation so ex<g ref="char:EOLhyphen"/>treamly inclined to intestine heats and variance: I shall make some Reflections on each Letter, and make it appear that there is much more Malice and Interest,
+<pb n="2" facs="tcp:46220:6"/> than of Truth and Reason in every one of them.</p>
+            <p>In the First Letter he Snarles at the Dissenters <hi>for making Proselites.</hi>
+            </p>
+            <p>The first thing that <hi>occurs to our View</hi> (saith he) is <hi>their great Zeal, and dili<g ref="char:EOLhyphen"/>gence in making Proselites,</hi> in which they <hi>imitate, if not out do the Zeal of the Pharisees, who compass Sea and Land to make a Proselite.</hi>
+            </p>
+            <p>He amplifies very much upon this Subject throughout his whole Letter; and makes it to be a damnable sin both in the Pharisees, and Dissenters <hi>to make Proselites.</hi>
+            </p>
+            <p>But what if after all this, the Phari<g ref="char:EOLhyphen"/>sees be not at all blamed by our Savi<g ref="char:EOLhyphen"/>our for making Proselites? Then the Sermon which he Preaches in this Let<g ref="char:EOLhyphen"/>ter upon the Text of <hi>compassing Sea and Land,</hi> is very impertinent; and a good<g ref="char:EOLhyphen"/>ly comparison design'd to expose the Dis<g ref="char:EOLhyphen"/>senters, loses all it's Grace, and shames the Author more than them.</p>
+            <p>The Truth is, <hi>the Pharisees making Proselites</hi> was so far from being culpa<g ref="char:EOLhyphen"/>ble, that it was in it self commendable; for it was the converting Heathens to Judaism which had been the only true Religion for many Ages together. All
+<pb n="3" facs="tcp:46220:6"/> Men of Learning besides our Author know that a Proselite, is one who ha<g ref="char:EOLhyphen"/>ving been a Gentile becomes a Jew; and therefore <hi>Grotius</hi> thus defines him, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <hi>est is qui ortu Gentilis per Cir<g ref="char:EOLhyphen"/>cumcisionem se legi Mosis obstrinxsit.</hi> So that our Saviour doth not find any fault with the Pharisees for their <hi>mak<g ref="char:EOLhyphen"/>ing Proselites,</hi> but only condemns them for that <hi>after they had made them, they made them twofold more the Children of Hell than themselves.</hi>
+            </p>
+            <p>And now if this be the Character of the Dissenting Teachers, his Simili<g ref="char:EOLhyphen"/>tude may go a little way upon one Leg though it be very lame in the other as to his purpose. If they are All Sons of Devils, and make all that come to hear them <hi>twofold more the Children of Hell than themselves;</hi> they have then I must confess some of the Air, and Features of the Pharisees, and there<g ref="char:EOLhyphen"/>fore to draw the Picture something alike, he should shew that whensoever any withdraw from the Church, and become Members of a Conventicle (as he calls it) they are presently trans<g ref="char:EOLhyphen"/>form'd, lose all their Vertue and Re<g ref="char:EOLhyphen"/>ligion, become poyson'd with Vice, and are Inrolled in the Family of Sa<g ref="char:EOLhyphen"/>tan.
+<pb n="4" facs="tcp:46220:7"/> But if he should attempt this charge, he would be in danger of resem<g ref="char:EOLhyphen"/>bling the Devil himself, in being a Lyar, and an accuser of the Bre<g ref="char:EOLhyphen"/>thren.</p>
+            <p>But to pass off from this ill-manag'd comparison; I will ask him, how it doth appear that the Dissenters are so extreamly industrious in <hi>making Prose<g ref="char:EOLhyphen"/>lites,</hi> which he asserts so often, so vehe<g ref="char:EOLhyphen"/>mently, and with so much concern in so many Places of this Letter and Book. <hi>They compass Sea and Land, and fish for Proselites every where,</hi> &amp;c. One would think by his earnest description of it that they were daily roving from the Lands-End in <hi>Cornwal,</hi> to the Town of <hi>Berwick upon Tweed,</hi> Travelling East, West, North and South; and Naviga<g ref="char:EOLhyphen"/>ting round the Island to visit the Sea<g ref="char:EOLhyphen"/>coasts; and that by this time their in<g ref="char:EOLhyphen"/>credible industry, and diligence should have almost drain'd the Churches, emptied the Pews, and Seats, and that the Clergy should have none to Preach to but their Families, and Clarks. The very least a Stranger can imagine by reading his Letter, is that they go from House to House, to entice the Members of the Church over to them, that they
+<pb n="5" facs="tcp:46220:7"/> resort to the Market-Places, and call People to follow them, that they en<g ref="char:EOLhyphen"/>ter into the Publick Temples and invite them thence, or that they compel them to come in.</p>
+            <p>But since nothing of this Nature is practised by them, all this noise about <hi>ma<g ref="char:EOLhyphen"/>king Proselites</hi> comes to little more than this, that the Dissenting Ministers Preach to their own Congregations, and that in a way which doth not at all please our Divines.</p>
+            <p>But let us consider the Three chief things that he proposes to be Remarked under this Head. The 1st. is, <hi>The Persons of whom these Proselites consist: They he tells us, are not any Persons of Education, and Parts, but the weak and illiterate Vulgar.</hi>
+            </p>
+            <p>To which I shall only say this; that he hath discovered so much Ill-breed<g ref="char:EOLhyphen"/>ing, and weakness throughout his Book, that whosoever takes him for a fair Judge of other Mens Educati<g ref="char:EOLhyphen"/>on and Parts, will be extreamly de<g ref="char:EOLhyphen"/>luded.</p>
+            <p>The second thing he remarks upon is, <hi>Whence these Proselytes are gather'd;</hi> He say's <hi>they are gathered out of the Pa<g ref="char:EOLhyphen"/>rochial Established Churches, and drawn
+<pb n="6" facs="tcp:46220:8"/> from the true fold of the Catholick Church.</hi>
+            </p>
+            <p>As if the <hi>Catholick Church</hi> were con<g ref="char:EOLhyphen"/>fin'd to a Party. Certainly the <hi>fold of the Catholick Church</hi> is wide enough, to take in those who acknowledg one Lord, one Faith, one Baptism; Tho' they are so unhapy as not to under<g ref="char:EOLhyphen"/>stand the absolute necessity of one Form of Church Government, one Li<g ref="char:EOLhyphen"/>turgy, one Book of Canons. There may be various Churches in one Na<g ref="char:EOLhyphen"/>tion, all differing in some respects in Government, Discipline, and Worship, and yet all of them may belong to the <hi>Catholick Church.</hi> None but a Bigot will deny this.</p>
+            <p>He proceeds to exclaim severely a<g ref="char:EOLhyphen"/>gainst <hi>gathering Churches out of Church<g ref="char:EOLhyphen"/>es,</hi> which charge, tho' it hath been very often thrown in the Teeth of the Dissenters; Yet it hath been done with less Justice than hath been commonly imagin'd; as will appear, if the first Original of the Dissenting Congregati<g ref="char:EOLhyphen"/>ons be lookt to, and considered.</p>
+            <p>The case is this; In 1660. The Mi<g ref="char:EOLhyphen"/>nisters that a little after taught in the Dissenting Congregations were in Actu<g ref="char:EOLhyphen"/>al, and Legal possession of Benefices, with Cure of Souls; And least any
+<pb n="7" facs="tcp:46220:8"/> should doubt this, they are declared to be lawful Incumbents, and Possessors of the same to all Intents, by an Act of Parliament made the 12 of <hi>Charles</hi> II. <hi>Cap.</hi> 17.</p>
+            <p>After this, by the Act of Uniformity they became depriv'd of their Benefices, for refusing to declare their Assent and Consent, to all and every thing con<g ref="char:EOLhyphen"/>tained in the <hi>Common-Prayer-Book.</hi>
+            </p>
+            <p>However having been ordained to the Ministry, they Judg'd it their Du<g ref="char:EOLhyphen"/>ty to continue in the Exercise of it; And many of their people adhering to them as their proper Pastors, they Preach'd to them in private Houses: Others of their Hearers deserted them, and repaired to the publick Temples, and to new Teachers. Now this was the Foundation of the <hi>Presbiterian Congregations;</hi> And upon the whole, I have known it made a Question: whe<g ref="char:EOLhyphen"/>ther the Dissenters be the real Separa<g ref="char:EOLhyphen"/>tists, or rather the people of the Church? For People of the Church deserted their former Pastors, and way of Worship; whilst the Dissenters in such Parishes adhered to both.</p>
+            <p>I know that our Author can have no other way to defend himself, but by say<g ref="char:EOLhyphen"/>ing,
+<pb n="8" facs="tcp:46220:9"/> that the Parliament having by the Act of Uniformity deprived the Dissent<g ref="char:EOLhyphen"/>ing Ministers, and made way for new to be introduced in their places, the former Ministers and People became <hi>ipso facto</hi> Schismaticks, by not complying with this new establishment of the Law. For without an Act of Parliament making a new Establishment, and setting aside the former, there could have been no Schism. So that accord<g ref="char:EOLhyphen"/>ing to this notion, Schism depends up<g ref="char:EOLhyphen"/>on an Act of Parliament.</p>
+            <p>But now this is quite contrary to what he asserts, <hi>page</hi> 79. For there he tells us, that the Parliament cannot take off the guilt of Schism; And if this be true, the Parliament cannot make Schism: For if they have a Power to make it, there's no question but that they have a Power to unmake it, and take off its guilt. But there are some Zealots who will allow the Parliament an unlimited power to make Laws in the Favour of the Church; and against those who Dissent from it: But if they go to alter these good Laws, and take off their obligation, they cry out that they have no Authority to do that: Interest will speak out.</p>
+            <pb n="9" facs="tcp:46220:9"/>
+            <p>To conclude; Suppose the Church of <hi>England</hi> had not that Parliamentary establishment which it boast's of, as that in which it is Superior to other Congregations, but were on the same foot with other People, <hi>viz.</hi> that of a Toleration: I ask whether it would be Schism in such a case not to be in Communion with her. I think none but a Monster of a Bigot will say this. If then it be no Schism not to be in Communion with her: I ask whether a Supervening establishment, of the Na<g ref="char:EOLhyphen"/>ture which it now enjoys, would make that to be Schism which was none be<g ref="char:EOLhyphen"/>fore: If it would not, then People have a right to their separate Meetings, with<g ref="char:EOLhyphen"/>out being liable to the impeachment of Schism. But if it will; then since Schism owes its Parentage to an Act of Parliament; an Act of Parliament can also destroy its nature, and make that to be no Schism which it had made to be Schism before.</p>
+            <p>This is a plain case, and there had need be a deal of Metaphysicks to get free from the force of this Argument.</p>
+            <p>Thirdly, there is one thing more he hath a mind to inquire into; and that is: <hi>What the Dissenters are Proselyted to?</hi>
+               <pb n="10" facs="tcp:46220:10"/> He answers, <hi>to a Party, a Faction, a a Schism,</hi>
+            </p>
+            <p>This is all Cant, and Stuff. He hath pick'd up a parcel of frightful Words, such as Sedition, Faction, Schism, Pha<g ref="char:EOLhyphen"/>risees, and the like; and lards all his Letters with them; But this is in effect nothing but calling Names. For there are names Ecclesiastical, and names Secular. There are names belonging to the Laity; and other names which the Clergy call. The Laity call such names as these, Dog, Toad, and Son of a Whore, &amp;c. The Clergy's Names are Fanatick, Heretick, Schismatick, Pharisee, Factious fellow, &amp;c. And these names are so Familiar to our Bi<g ref="char:EOLhyphen"/>got that he can scarce write a Page without adorning it with one of them.</p>
+         </div>
+         <div n="2" type="letter">
+            <pb n="11" facs="tcp:46220:10"/>
+            <head>REFLECTIONS ON <hi>Letter</hi> II.</head>
+            <p>IN the first Letter the Divine pre<g ref="char:EOLhyphen"/>tends to give an account of the <hi>Diligence and Industry of the Dissenters in making Proselytes.</hi> He now passes on to the <hi>Principal Artifices which they make use of to compass their Ends.</hi>
+            </p>
+            <p>And the first Artifice which he ha<g ref="char:EOLhyphen"/>rangues upon in this Letter, is <hi>their pre<g ref="char:EOLhyphen"/>tence to greater Light and Knowledg than other Men;</hi> and whereas in the fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st Letter he falls foul upon them with the comparison of the <hi>Pharisee,</hi> in this he likens them to the <hi>Gnosticks, who were so called from their boasting of great<g ref="char:EOLhyphen"/>er light, and esteeming themselves the Wisest, and most Knowing of all Persons.</hi>
+            </p>
+            <p>It would have been wiser never to have said any thing of the <hi>Gnosticks,</hi> except he had better known who they were. For in <hi>page</hi> 12. he seems to ap<g ref="char:EOLhyphen"/>prehend them to be a Sect of Christi<g ref="char:EOLhyphen"/>ans:
+<pb n="12" facs="tcp:46220:11"/> But in page 20th. he ranks them amongst the Heathens, of whom St. <hi>Paul</hi> writes in the 1st. Chapter to the <hi>Romans.</hi>
+            </p>
+            <p>Next, I observe that this Letter Wri<g ref="char:EOLhyphen"/>ter is the unfittest Man in the World to find Fault with others, for their <hi>pre<g ref="char:EOLhyphen"/>tences to greater Light and Knowledg:</hi> For he writes with such an Air of Il<g ref="char:EOLhyphen"/>lumination and Assurance, as if he had dwelt all days of his life on the Top of <hi>Parnassus:</hi> Yea, he pretends to give an account of private matters, as if he were a Wizzard, and had a Fa<g ref="char:EOLhyphen"/>miliar Spirit: You have a large unravel<g ref="char:EOLhyphen"/>ling of hidden things in this book; in particular, he goes to discover the trans<g ref="char:EOLhyphen"/>actions in the Philosophy Schools of the Dissenters in so very ample a manner, as if he had been an Academick a<g ref="char:EOLhyphen"/>mongst them himself.</p>
+            <p>And things so extreamly secret there, are found out by our Author, which no body else knows. So highly ele<g ref="char:EOLhyphen"/>vated is the Pole of his Understand<g ref="char:EOLhyphen"/>ing. Nay he goes farther; He doth not only enter into the Dissentters Aca<g ref="char:EOLhyphen"/>demies, but into their very Hearts.</p>
+            <p>He pretends to know what's within them; and their thoughts, their incli<g ref="char:EOLhyphen"/>nations,
+<pb n="13" facs="tcp:46220:11"/> and designs do not escape his penetration: For he is every now and then charging the whole Body of them for Hypocrisie, which is so Clandestine a Vice that it doth not appear to Men of an ordinary size of understanding.</p>
+            <p>Now I think the Dissenters never went so far in their pretences to Light and Knowledg as this Man.</p>
+            <p>I proceed to observe further on this Head, that if the Dissenters do <hi>pretend to more Light and Knowledg than some other Men;</hi> this is no more than all Mankind do expressly or vertually in their differing Sentiments and Opinions. Men do of course think themselves to be in the right, and that those who differ from them are mistaken: This is so in all matters whatsoever, as Theo<g ref="char:EOLhyphen"/>logical, Civil, Political, Moral, Natu<g ref="char:EOLhyphen"/>ral, &amp;c. And therefore it would be a more severe imputation upon the Dis<g ref="char:EOLhyphen"/>senters, if they should differ from the Church; and yet without any <hi>pretences to greater light in the matters of differ<g ref="char:EOLhyphen"/>ence;</hi> And he hath the lesser reason to urge this, because the Members of the Church <hi>do pretend to as much more Light,</hi> in differing from the Dissenters,
+<pb n="14" facs="tcp:46220:12"/> as the Dissenters do in differing from them.</p>
+            <p>When he tells us, that there is no<g ref="char:EOLhyphen"/>thing in the Dissenters mouths more common than the <hi>Manifestations and Discoveries of the Gospel:</hi> I must tell him that it doth not at all become a Di<g ref="char:EOLhyphen"/>vine, and a Preacher of the Gospel, to object that against them, unless these things are not worth the talking of.</p>
+            <p>But then he farther intimates; <hi>that they appropriate and confine all Gospel Light to themselves:</hi> This is notoriously false; and if there have been any En<g ref="char:EOLhyphen"/>thusiasts that have done so: The Body of the Dissenters are not chargeable for it, any more than the Church of <hi>England</hi> is for the Errors and Delinquencies of any of its Members; and particularly the Uncharitableness, Falsities, and Slan<g ref="char:EOLhyphen"/>ders of this Divine.</p>
+            <p>Lastly; if (generally speaking) it be true that there is more frequent Preach<g ref="char:EOLhyphen"/>ing in the Meeting-Houses of the Dis<g ref="char:EOLhyphen"/>senters, than in the Parish Churches; If the people oftener read the Scrip<g ref="char:EOLhyphen"/>tures, and other Books of Divinity in their Houses; And if they do more strictly observe the Lords-day in the exercise of Religious Duties: If these
+<pb n="15" facs="tcp:46220:12"/> things be true (as I think it very probable that they are,) 'tis possible they might (not by Inspiration, or parti<g ref="char:EOLhyphen"/>cular Revelation, but) by the ordinary means of obtaining Knowledge, arrive to a greater degree of <hi>Light</hi> in the mat<g ref="char:EOLhyphen"/>ters of Religion, than those who are not perhaps altogether so diligent in these respects as they are.</p>
+         </div>
+         <div n="3" type="letter">
+            <pb n="16" facs="tcp:46220:13"/>
+            <head>REFLECTIONS ON <hi>Letter</hi> III.</head>
+            <p>IN this Letter he proceeds to another Artifice of the Dissenters; and that is a <hi>pretence to a greater strictness and sanctity than other men; and herein they are the successors of the Pharisees</hi> (saies he) <hi>who besides the exacter knowledge of the Law, pretended to the exactest observance and obedience to it; Hence we find them stiled the strictest Sect of their Religion,</hi> Acts 26.5. <hi>And they are said to teach and act according to the perfect manner of the Law.</hi>
+            </p>
+            <p>The design of this Letter is to prove that <hi>Strictness and Sincerity are inconsistent,</hi> and that there is no Religion where there is an appearance of it. if a Man be as strict as any Saint, that's assu<g ref="char:EOLhyphen"/>redly a Badge of an Hypocrite; For mark it, strictness and sincerity did not meet in the Pharisees, therefore they do not in any other Persons; no
+<pb n="17" facs="tcp:46220:13"/> not in some of the greatest Saints in Heaven, if it may be allowed there are of <hi>the stricter</hi> sort there.</p>
+            <p>There's nothing which our Author de<g ref="char:EOLhyphen"/>lights in more, than the comparison of the Pharisees and Dissenters; And this makes him draw the Parrallel as far as ever it will go throughout all the De<g ref="char:EOLhyphen"/>grees, for he doth not like a Similitude that will not run on all Four, and if it be not inclinable, he will force it to do so. So after he had told us that the Dis<g ref="char:EOLhyphen"/>senters were like the Pharisees in making Proselites he presently infers it as a natural Consequence that they must be very bad Men, and make their Disciples twofold more the Children of Hell than themselves. And so in the Instance be<g ref="char:EOLhyphen"/>fore us, he takes it for granted that they pretend to greater strictness and Sancti<g ref="char:EOLhyphen"/>ty than some others; and in this they are like the Pharisees, and if they are so in this respect, then they are in all others too, and so are gross Hypo<g ref="char:EOLhyphen"/>crites.</p>
+            <p>But there is one great inconvenience in this way of talking, which he is not aware of; for he wounds his own Mo<g ref="char:EOLhyphen"/>ther the Church of <hi>England</hi> through the sides of the Dissenters. Whilest he is
+<pb n="18" facs="tcp:46220:14"/> busie in railing against the one, his heat transports him so far, that he doth not consider the Reputation of the other.</p>
+            <p>For at this rate of Scribling, how easie would it be to prove the Members of the Church to be Pharisees; for the Pharasees paid Tithes, <hi>so do they. The Pharisees also built Tombs, and gar<g ref="char:EOLhyphen"/>nished the Sepulchres of the Righteous,</hi> so do they. <hi>The Pharisees also appeared beautiful outward:</hi> So doth the <hi>Church in it's Temples, it's Gold and Silver Ves<g ref="char:EOLhyphen"/>sels, it's White Vestments,</hi> &amp;c. Now would it be good Logick to conclude presently upon this, that the Church of <hi>England</hi> is made up of a parcel Hy<g ref="char:EOLhyphen"/>pocrites, and that they Answer the Pharisees in all respects as exactly as one Tally doth another.</p>
+            <p>The Church of <hi>England</hi> is certainly very little obliged to this Gentleman, tho' a Divine of her own Commu<g ref="char:EOLhyphen"/>nion: For he manages his revilings so odly throughout his Book, that they every now and then, glance upon her self; and he doth neither Party right at long run.</p>
+            <pb n="19" facs="tcp:46220:14"/>
+            <p>But let us see what account he gives of the Dissenters <hi>Strictness and Sancti<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y:</hi> Why,</p>
+            <p>First, <hi>They look more demurely.</hi>
+            </p>
+            <p>But what peevish sort of a Man is this to quarrel with anothers Looks. This is like the Spark in the Comedy who drew and demanded satisfaction because he did not approve of the others Countenance</p>
+            <p>Secondly, <hi>They talk more Religious<g ref="char:EOLhyphen"/>ly.</hi>
+            </p>
+            <p>But, whose fault is that?</p>
+            <p>Thirdly, <hi>They seem to Pray more De<g ref="char:EOLhyphen"/>voutly.</hi>
+            </p>
+            <p>And how doth he know that they are not as Devout as they seem to be. The Bishop of <hi>Rochester</hi> in his late Charge to his Clergy, doth earnestly exhort them not only to be Devour, but also to seem to be so; to let the People see that they are so. This I doubt not, he will conclude is <hi>to be outwardly righteous unto Men.</hi> But what if it be so, there is no fault in that, if men are not <hi>within full of Iniquity and Hypocricy.</hi>
+            </p>
+            <pb n="20" facs="tcp:46220:15"/>
+            <p>Fourthly, <hi>Their seeming Zeal carri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them many a Mile to a Conventicle.</hi>
+            </p>
+            <p>And it may be better worth thei<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> while to go so far, than to hear such a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he is at home.</p>
+            <p>Lastly, <hi>They Repeat Sermons too which were scarce worth the first Hearing</hi>
+            </p>
+            <p>If this be true, they are so unhapp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to Preach Sermons like his own, i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we may guess at his Sermons by hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Book.</p>
+            <p>And thus you have had his Wis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Account of the Dissenters <hi>strictness.</hi>
+            </p>
+            <p>Now he makes all this <hi>strictness</hi> to be a Veil to their Hypocrisy; and is so extreamly hard-harted and rigid, that he'l scarce excuse one of them from be<g ref="char:EOLhyphen"/>ing a Pharisee.</p>
+            <p>But doth he not in this talk like an Enthusiast, as if he were inspir'd from above, to know the hearts of other Men<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Or, if he be not inspir'd, how dares he invade the Prerogative of God, and pass such censures as only belong to the Searcher of the Heart? Would he not have been more modest and wise, if he had observed the advice of St. <hi>Paul,</hi> viz. <hi>to Judge nothing before the time un<g ref="char:EOLhyphen"/>till
+<pb n="21" facs="tcp:46220:15"/> the Lord come, who both will bring to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight the hidden things of darkness, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill make manifest the Counsels of the Heart,</hi> 1 Cor. 4.5.</p>
+            <p>He doth indeed pretend that their Hypocrisy betrays it self by their <hi>Acti<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns;</hi> and there he brings on a very <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>evere Charge, enough to make them All hold their hands to the Bar, if he could prove it to be true.</p>
+            <p>They have he say's <hi>under a Mask of Zeal and Reformation, conceal'd and carried on very bad designs, they have put fair Co<g ref="char:EOLhyphen"/>lours upon foul Actions, and made Religion a Stale and Pander to the greatest Abomi<g ref="char:EOLhyphen"/>nations.</hi>
+            </p>
+            <p>This is somewhat like Sir <hi>Roger</hi>'s Oratory; 'Tis probable our Author is one of his Admirers; and it may be one of those who used to present him with New-Years Gifts for Writing his Observator, so necessary a Common-Place-Book for the Divinity of those times, that some Bigots had rather be without their Bible than without the Observator: And it's said of one, that he chose his Text as well as Doctrine out of it, citing the very Number at the upper end.</p>
+            <pb n="22" facs="tcp:46220:16"/>
+            <p>But as to this heavy Charge, eithe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it is true or false: If it be false, the Rea<g ref="char:EOLhyphen"/>der knows what to think of the Autho<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and his Book: He hath forfeited hi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Credit and Reputation. If it be true<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Tis his Duty to Indict them, and s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them Arraigned for these <hi>greatest Ab<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>minations.</hi> The Courts of Judicatur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are open, and the Laws are Impartially Executed, especially against the <hi>greates<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Abominations.</hi>
+            </p>
+            <p>But what this <hi>greatest Abominations</hi> are, he hath not the Honesty to lay open and make them to appear to the Eyes o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the World.</p>
+            <p>He doth indeed in one Place of his Letter lay <hi>Sedition</hi> to their Charge; by which I know not what he means, unless their opposition to Tyranny, and their Asserting the Rights and Liberties of the People when they have been Invaded. And if this be Nick-nam'd <hi>Sedition,</hi> they they can bear this Charge with the more Patience and willingness, be<g ref="char:EOLhyphen"/>cause they have so good Company as the Church of <hi>England</hi> in the Reign of King <hi>James</hi> II.</p>
+            <p>He would also Insinuate their being addicted to <hi>Cheating, p.</hi> 28.</p>
+            <pb n="23" facs="tcp:46220:16"/>
+            <p>Here I ask him, whether he can make it appear that there are more Dissenters Convicted in the Courts of Judicature, for any sorts of Frauds, than there are of the Church. If there are not, this Charge is very unjust and malicious.</p>
+            <p>If he say's their Frauds are too clan<g ref="char:EOLhyphen"/>denstinely and privately manag'd, to be found out. I ask him then, how he comes to know that they are guilty of them?</p>
+            <p>I have one thing more to take notice of in this Letter: And that is his In<g ref="char:EOLhyphen"/>consistency with himself. For he seems to want one thing very necessary to Men of his Character, <hi>i. e.</hi> a good Memory; and for lack of this, he be<g ref="char:EOLhyphen"/>trays himself now and then into some Absurdities and Incoherencies.</p>
+            <p>Thus in <hi>Page</hi> 24. He tells us that <hi>the Dissenters seek to polish the outward Garb with a fair and plausible shew of Holiness, and not only pretend, but as to outward appearance, practice a greater strictness:</hi> Now how shall we judge of such Men? Why he says <hi>Page</hi> 28. that <hi>Though God looks to the Heart, yet Men Judge only by the outward Appear<g ref="char:EOLhyphen"/>ance.</hi> Then say I, since <hi>the Dissen<g ref="char:EOLhyphen"/>ters
+<pb n="24" facs="tcp:46220:17"/> polish the outward Garb,</hi> &amp;c. <hi>and Men can only Judge by the outward Ap<g ref="char:EOLhyphen"/>pearance,</hi> how can he come to know what is in their Hearts? This savours very much of Phanaticism, or a con<g ref="char:EOLhyphen"/>ceit of Inspiration, to Judge of Men otherwise than as to outward Ap<g ref="char:EOLhyphen"/>pearance. And the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> receives no Honour from the Whims of such Enthusiastical Men.</p>
+         </div>
+         <div n="4" type="letter">
+            <pb n="25" facs="tcp:46220:17"/>
+            <head>REFLECTIONS ON <hi>Letter</hi> IV.</head>
+            <p>THE next Artifice he pretends to be used by the Dissenters to increase their Party, is <hi>a pretence to purer Ordinance and a more Spiritual way of Wor<g ref="char:EOLhyphen"/>ship; And herein</hi> (he tells us) <hi>they are the successors of the</hi> Cathari, <hi>and</hi> Donatists <hi>of Old, who pretended to a better, and purer way of serving God than other Men, and so separated from them, as Saints of an higher Form; and Men of a more rais'd and ele<g ref="char:EOLhyphen"/>vated Devotion.</hi>
+            </p>
+            <p>
+               <hi>And herein they are exactly imitated by our Dissenters, who talk of nothing more than pure Worship, pure Ordinan<g ref="char:EOLhyphen"/>ces, and pure Administrations, all which they Confine to themselves, and will not allow others any share in them.</hi>
+            </p>
+            <p>The first thing I shall Reflect on, is the Comparison of the Dissenters with the <hi>Donatists.</hi>
+            </p>
+            <pb n="26" facs="tcp:46220:18"/>
+            <p>We shall see him manage this com<g ref="char:EOLhyphen"/>parison nothing better than that of the Pharisees, for he is very unhappy and unsuccessful at Similitudes. Whilst he is attempting to draw an odious Figure of Deformity, to represent the Dissenter, he shapes out the Image of himself and Bigotted Party.</p>
+            <p>You would think at first, that these Donatists he speaks of, were a sort of Presbyterians, or Independents, who divided from some Church, as by Law establish't, upon account of greater <hi>pu<g ref="char:EOLhyphen"/>rity of Worship:</hi> But the truth is, they were all Episcopal Men; and the very contest and division was about a Bishop<g ref="char:EOLhyphen"/>rick: For the Bishoprick of <hi>Carthage</hi> be<g ref="char:EOLhyphen"/>coming void by the Death of <hi>Mensurius,</hi> in the fourth Century; several Candi<g ref="char:EOLhyphen"/>dates put in for it, but at length <hi>Caecilian</hi> was ordained by one Party of Bishops, and <hi>Majorinus</hi> by another. 70 Bishops in <hi>Africa</hi> Condemn'd <hi>Caecilian</hi> to be Ex<g ref="char:EOLhyphen"/>communicated for high Crimes: But <hi>Constantine</hi> and the Bishop of <hi>Rome</hi> fa<g ref="char:EOLhyphen"/>vou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing his Cause, he was absolv'd by 19 Bishops; and afterward acquitted by 200 at <hi>Ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es;</hi> and <hi>Donatus</hi> from whence the <hi>Donatists</hi> had their Name, being one of <hi>Majorinus</hi> his Party, was Condemn'd
+<pb n="27" facs="tcp:46220:18"/> for Schism in Rebaptizing, and Reor<g ref="char:EOLhyphen"/>daining.</p>
+            <p>Now what is this Jangling and Con<g ref="char:EOLhyphen"/>test about a Bishoprick to the Dissenters? Yes, he says these <hi>Donatists pretended to Purer Ordinances:</hi> But since he is not pleased to tell what these <hi>Purer Ordi<g ref="char:EOLhyphen"/>nances</hi> were, I will do it for him. They refused to hold Communion with <hi>Caecili<g ref="char:EOLhyphen"/>an's</hi> Party, looking upon them to be He<g ref="char:EOLhyphen"/>reticks or Schismaticks at least; being themselves for some time the Majority; and if any of <hi>Caecilian's</hi> Party came over to them, they Rebaptiz'd and Reordain'd them, as thinking them not duly Bap<g ref="char:EOLhyphen"/>tiz'd or Ordain'd before. These were the main things which were accounted to involve the Donatists in the guilt of Schism.</p>
+            <p>But now how come the Dissenters to be compared to them? Do they Quarrel about the Bishoprick of <hi>Carthage?</hi> Do they condemn those who differ from them for Haereticks and Schismaticks? Do they invalidate the Baptism of the Church, and Baptize their Proselites a<g ref="char:EOLhyphen"/>fresh? Or, do they pretend, that if any Ministers of the Church come over to them, they ought to be Reordain'd.</p>
+            <pb n="28" facs="tcp:46220:19"/>
+            <p>Nothing can be more manifest than that this Character doth suit the Bigots of the Church, abundantly better than the Dissenters.</p>
+            <p>For like the <hi>Donatists</hi> they, Condemn those who differ from them as Schis<g ref="char:EOLhyphen"/>maticks, they refuse to hold Communi<g ref="char:EOLhyphen"/>on with them upon any occasions, they are against having any to be admitted into the Church, who having been Or<g ref="char:EOLhyphen"/>dain'd by a Presbytery, refuse to be Re<g ref="char:EOLhyphen"/>ordain'd; and they lay so very great stress upon Episcopal Ordination, that they scarce think Baptism, or any other Ordinance to be duly administred, where the Priest is not Ordain'd in that Form, and if it were practicable would Rebaptize.</p>
+            <p>And now what hath he got by the comparison of the Donatists?</p>
+            <p>But to proceed; whereas he goes to prove that the Dissenters pretend to grea<g ref="char:EOLhyphen"/>ter <hi>purity,</hi> because <hi>they revile the Church of</hi> England <hi>as Popish, and stile its Wor<g ref="char:EOLhyphen"/>ship Antichristian, and charge it with Ido<g ref="char:EOLhyphen"/>latry, with bowing down to Idols, and Worshipping Graven Images:</hi> There are non<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but Bigots on that side, that are so lavish and uncharitable in their Cen<g ref="char:EOLhyphen"/>sures; and they are very few (I may al<g ref="char:EOLhyphen"/>most
+<pb n="29" facs="tcp:46220:19"/> say none) in comparison with the rest, who are of a more candid and free Spirit.</p>
+            <p>That which the more Intelligent and Moderate sort say upon this subject, of <hi>the Purity of Divine Worship,</hi> is, that the New-Testament is the rule and standard, whereby to judge of it; and that as soon as we look into the New-Testament, we see the Lawgiver of the Church, refi<g ref="char:EOLhyphen"/>ning and raising it to the highest degree of Spirituality; to this end the Cere<g ref="char:EOLhyphen"/>monial Law is abolished, as not so very correspondent to the Spirituality of the Divine Nature; and all the Precepts of the Gospel throughout, tend to abstract the Mind from material Objects, and to exalt it to an higher pitch of Devotion. And they farther take notice, that the Pharisees are blamed for teaching for Doctrines the Commandments of Men, which were of an external and ritual Na<g ref="char:EOLhyphen"/>ture, and seemed to be indifferent, such as the washing of Hands before Eating of Bread. Upon this they are inclined to think, that Worship to be in general most Spiritual and Pure, which is most free from Human and Material Rites and Representations.</p>
+            <pb n="30" facs="tcp:46220:20"/>
+            <p>However they Honour the Church of <hi>England,</hi> as a Reformed and true Church; but they wish, that as in the Reforma<g ref="char:EOLhyphen"/>tion, it worthily set aside, and cast out so many Ceremonies of the Church of <hi>Rome,</hi> so it would part with the rest of its unnecessary Rites, that they may not be an obstacle to Uniformity, nor lye as a Foundation for the addition of more, when occasion shall serve.</p>
+            <p>As to the Dissenters Prayers, which he says are <hi>Human Inventions;</hi> 'tis al<g ref="char:EOLhyphen"/>lowed, that as well the Prayers with<g ref="char:EOLhyphen"/>out Forms, as those with them, are since the ceasing of extraordinary Inspiration, the <hi>Inventions of Men,</hi> at least in part: But there is this plain difference between Human Ceremonies and Prayers, that Prayers in general are commanded, which Ceremonies are not, and tho' they are made by Men, yet they are an Or<g ref="char:EOLhyphen"/>dinance of God.</p>
+         </div>
+         <div n="5" type="letter">
+            <pb n="31" facs="tcp:46220:20"/>
+            <head>REFLECTIONS ON <hi>Letter</hi> V.</head>
+            <p>IN this Letter he tells us, that a fourth Artifice made use of by the Dissen<g ref="char:EOLhyphen"/>ters to multiply and encrease their Par<g ref="char:EOLhyphen"/>ties, is to <hi>cry up Peace and Ʋnity, tho' their Actions tend all the while to destroy and undermine them.</hi> And least you should be at a loss, what these <hi>Actions are;</hi> you are told in the 45 page, <hi>that their gathering Disciples, and making Par<g ref="char:EOLhyphen"/>ties, are plain breaches of that Peace, which they seem to cry up; and their Schism, and Separation are a manifest breach of Ʋnity.</hi>
+            </p>
+            <p>Here he arraigns the Legislature of the Nation, for making an Act the better to enable the Dissenters to break the Peace. I think the Bishops did not oppose the Law for Liberty of Conscience; but without doubt they ly under our Au<g ref="char:EOLhyphen"/>thor's Displeasure, for consenting to it.</p>
+            <p>Peace and Unity are acknowledg'd on all hands, to be two of the most desira<g ref="char:EOLhyphen"/>ble
+<pb n="32" facs="tcp:46220:21"/> Blessings on Earth: Yet notwith<g ref="char:EOLhyphen"/>standing all our Authors pretences, he bids defiance to both.</p>
+            <p>For his Book seems designed to in<g ref="char:EOLhyphen"/>flame the Hearts of Men one against another: it sounds the Alarm, and sets up a Standard to invite People to Quarrel, and fall by the Ears. But</p>
+            <p>Wherein are the Dissenters so very <hi>unpeaceable?</hi> Do they plant Cannon a<g ref="char:EOLhyphen"/>gainst the Church-Walls? Do they ri<g ref="char:EOLhyphen"/>otously break open its Doors? Do they enter in <hi>Vi &amp; Armis,</hi> pull down the Pul<g ref="char:EOLhyphen"/>pit, tear the Common-Prayer, or which is more, rend the Surplice? or rather, have they not, since Liberty of Conscience hath been granted them by Law, be<g ref="char:EOLhyphen"/>haved themselves so Quietly and Loyal<g ref="char:EOLhyphen"/>ly, as to deserve it?</p>
+            <p>'Tis not the meeting of Men together for Divine Worship; but Bigotism, that is <hi>a breach of the Peace.</hi> This is a furi<g ref="char:EOLhyphen"/>ous mad Zeal, kindled by the Fire of Hell; and when Men lay so much stress upon those smaller matters, in which they differ from others, as if the Life and Soul of Religion did consist in them, (whereas they are only the Fringes of her Garment.) This will naturally make them Fierce, Heady, and Contentious;
+<pb n="33" facs="tcp:46220:21"/> and they will esteem those Sacrifices to be always best, which they offer to <hi>Mars</hi> and <hi>Bellona.</hi> Their Malice and Rage will scarce be appeased, (if they have Power) till they are satisfied with Fire, or glutted with Blood.</p>
+            <p>As to the Unity of the Church; it doth not consist in the same Govern<g ref="char:EOLhyphen"/>ment, the same Discipline, and the same Ceremonies, but in one Lord, one Faith, one Baptism.</p>
+            <p>The Judgment of that Incomparably Sagacious and Learned Chancellor of <hi>England,</hi> my Lord <hi>Bacon,</hi> will be infi<g ref="char:EOLhyphen"/>nitely more regarded in this matter, than that of our Letter-Writer: He tells us in his Chapter <hi>De Ʋnitate Ecclesiae,</hi> con<g ref="char:EOLhyphen"/>tained in his <hi>Sermones Fidèles,</hi> that <hi>Quantum ad terminos, Et limites Ʋni<g ref="char:EOLhyphen"/>tatis; vera &amp; justa eorum collocatio mag<g ref="char:EOLhyphen"/>ni prorsus est ad omnia in Religione mo<g ref="char:EOLhyphen"/>menti, i. e.</hi> The time and just fixing the bounds and limits of Unity, is, with<g ref="char:EOLhyphen"/>out doubt, of great moment in the mat<g ref="char:EOLhyphen"/>ters of Religion.</p>
+            <p>And then he takes notice of two Extreams, the one of those Bigots, who will hear of no Pacification: the other of those, who being luke-warm in Re<g ref="char:EOLhyphen"/>ligion, think all the Articles of it may
+<pb n="34" facs="tcp:46220:22"/> be joyn'd together by middle Ways and Reconciliations. Now both these extreams (he says) are to be avoided; which will be done, <hi>si Capita Religionis planè essentialia &amp; fundamentalia ritè di<g ref="char:EOLhyphen"/>scernantur, &amp; distinguantur a Capitibus, quae non sunt ex fide sed ex opinione proba<g ref="char:EOLhyphen"/>bili, &amp; intentione sanctâ propter Ordinem, &amp; Ecclesiae Politiam sancitae,</hi> i. e. If the Heads of Religion, which are plainly es<g ref="char:EOLhyphen"/>sential and fundamental, be duly divi<g ref="char:EOLhyphen"/>ded and distinguished from those heads which are not of Faith, but probable Opinion, and establish'd out of a good Intention, for sake of Order and Polity of the Church. And afterward <hi>differunt haud parum inter se Ʋnitas &amp; Ʋniformi<g ref="char:EOLhyphen"/>tas, i. e.</hi> There's a wide difference be<g ref="char:EOLhyphen"/>tween Unity and Uniformity.</p>
+            <p>But now our Divine will have the <hi>Ʋnity of the Church,</hi> to consist not in one Faith, in the fundamental Points of Religion, but in one mode of Wor<g ref="char:EOLhyphen"/>ship; and not to Conform to this one mode of Worship is Schism; which is a Doctrine abundantly too straight-lac'd and rigorous, for a Catholick and In<g ref="char:EOLhyphen"/>genious Spirit. Were it not for such rash Zealots and Incendiaries, and if neither side did magnifie the Points in
+<pb n="35" facs="tcp:46220:22"/> which they differ, into so great a bulk, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to lay the whole weight of Religion upon them, I see no reason why the Church and Dissenters might not live together in Peace and Unity, as if they were of one Opinion.</p>
+            <p>'Tis plain, That Philosophers, Law<g ref="char:EOLhyphen"/>yers, Physicians, Merchants, Trades<g ref="char:EOLhyphen"/>men, Husband-men, <hi>&amp;c.</hi> have different Sentiments, Opinions and Methods in <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir respective Faculties and Callings; yet they do not quarrel, and draw up<g ref="char:EOLhyphen"/>on one another, because they are not so fortunate to have exactly the same No<g ref="char:EOLhyphen"/>tions.</p>
+            <p>How comes it to pass then that Divi<g ref="char:EOLhyphen"/>nity alone should be of so inflaming a Nature; and that Wrath and Contenti<g ref="char:EOLhyphen"/>on should be Grafted on so good a Stock as Christianity is? Is there any the least countenance givien to Dissaffections, Prejudices, and Persecutions upon the account of Religion, in the whole New-Testament? No, It teaches every where Love, Charity, and Meekness. But St. <hi>James</hi> plainly tells us from whence come Wars, and Fightings among us; that they come not from the Christian Principles, but our Lusts, which War in our Members.</p>
+            <pb n="36" facs="tcp:46220:23"/>
+            <p>I Write after this manner because 'tis plain he looks with an ill, and envious Eye on the Dissenters Indul<g ref="char:EOLhyphen"/>gence: For in Page 45 <hi>He asks what is the Peace they thus speak up for?</hi> He Answers, <hi>'Tis an Indulgence in their Schism, to be allowed to fill their Conven<g ref="char:EOLhyphen"/>ticles, and deceive the People without molestation</hi>
+            </p>
+            <p>Now 'tis pity such scurrilous Revilers as he should have any Indulgence a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all: The Persecution that hath lighted on the Dissenters (I think) of righ<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ought to come upon all sorts of Bigots as Men begetting Variance and Dis<g ref="char:EOLunhyphen"/>cord between His Majesties Loving Subjects, and endeavouring to disturb the Publick Peace, and Tranquility.</p>
+            <p>What a Forehead hath this Man to talk so confidently of the Dissen<g ref="char:EOLhyphen"/>ters unpeaceableness; and yet to dis<g ref="char:EOLhyphen"/>cover at the same Instant so many unpeaceable qualities himself.</p>
+            <p>Let me here once more cite my Lord <hi>Bacon, Certe optandum esset ut in omnibus circa Religionem Consiliis ante Oculos ho<g ref="char:EOLhyphen"/>minum praefigeretur monitum illud Apostoli; Ira Hominis non implet Justitiam Dei: Atque ut verum dicamus optime, &amp; Pruden<g ref="char:EOLhyphen"/>tissime Observatum est ab Ʋno ex Patri<g ref="char:EOLhyphen"/>bus
+<pb n="37" facs="tcp:46220:23"/> profundae sapientiae Viro, nec mi<g ref="char:EOLhyphen"/>nus ingenue &amp; sincere ab eodem prola<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um &amp; evulgatum; Eos qui Conscien<g ref="char:EOLhyphen"/>tias premi iisque vim inferri suadent sub illo Dogmate cupiditates suas sub<g ref="char:EOLhyphen"/>texere, illamque rem, sua interesse pu<g ref="char:EOLhyphen"/>tare. i. e.</hi> It were indeed to be wish'd that in all concerns about Religion, that warning of the Apostles were had before Mens Eyes; that the Wrath of Man worketh not the Righteous<g ref="char:EOLhyphen"/>ness of God; And that we might speak the Truth, it was excellently and most prudently observed, by one of the Fathers, a Man of Profound Wisdom, and by the same, ingenious<g ref="char:EOLhyphen"/>ly, and honestly declar'd, that those who advise to have Mens Consciences press'd, and to have a force put up<g ref="char:EOLhyphen"/>on them, do under that notion hide their Lusts, and judge their Interest to be concern'd.</p>
+            <p>To Conclude, there are two pla<g ref="char:EOLhyphen"/>ces of Scripture, in Citing of which he triumphs over the Dissenters, as a People very highly condemned by St. <hi>Paul.</hi> The one is <hi>Rom.</hi> 16.17. <hi>Now I beseech you Brethren, mark them which cause Divisions and Offences, contrary to the Doctrine which you have Learned, and avoid them.</hi>
+            </p>
+            <pb n="38" facs="tcp:46220:24"/>
+            <p>Now 'tis the opinion of Expositors upon this place, that by those who cause Divisions, such are to be understood who mixed Ceremonies with the Gos<g ref="char:EOLhyphen"/>pel, and would have the Ritual Law of <hi>Moses,</hi> to be imposed upon the Gentiles that were converted to Christianity. This is the Interpretation of <hi>Paraeus, Grotius,</hi> &amp;c. The words of <hi>Grotius</hi> are; <hi>Notat autem hic eos qui cum ipsi Judaei non essent, vocatis Gentibus imponere volebant legis Mosaicae Jugum, contra &amp; praecepta Christi pacem commendantis, &amp; precep<g ref="char:EOLhyphen"/>tum Apostolicum, quod ubique Paulus ser<g ref="char:EOLhyphen"/>vandum docuit,</hi> Acts 16.4. So that this Text is against him.</p>
+            <p n="2">2. The other Text is in the Epistle to the <hi>Corinthians, I am of</hi> Paul, <hi>I am of</hi> Apollos, <hi>I am of</hi> Cephas. But I shall shew that this is little to his purpose in the Reflections on his Letter about Schism.</p>
+            <p>Upon the whole, the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> hath no reason to look upon this Man as her Friend, tho' he lies in her Bosom, and eats of her Bread: For he is an Enemy to Peace and Unity, and there is scarce any thing can contribute more, to hinder the Dissenters from be<g ref="char:EOLhyphen"/>ing reconcil'd to her Communion, than
+<pb n="39" facs="tcp:46220:24"/> for a Divine in her Orders to dip his Pen in Gall, and write Invectives against them. The methods of Meekness and Gentleness are certainly in such Cases most adapted to Humane Nature; at least to the Genius of English-Men, who hate to be born down, and trampled on either in Church or State.</p>
+         </div>
+         <div n="6" type="letter">
+            <pb n="40" facs="tcp:46220:25"/>
+            <head>REFLECTIONS ON <hi>Letter</hi> VI.</head>
+            <p>ANOTHER Artifice of Dissenters, which he proceeds to speak of in this Letter, is their <hi>Censuring the Lives and Actions of those within the Church, the better to Commend theirs who Dissent from it.</hi> And herein the beetter to ad<g ref="char:EOLhyphen"/>dorn his Charge; he says they are the followers of the <hi>Pharisees, A great part of whose Religion consisted in Censuring the Lives, and scorning the Persons of other Men.</hi>
+            </p>
+            <p>What a great loss would this Gen<g ref="char:EOLhyphen"/>tleman have been at, if he had not the comparison of the Pharisee to Bait the Dissenters with; 'Tis this that Embellish<g ref="char:EOLhyphen"/>eth, and sets forth most of his Letters: He would not spare this Similitude for all the Tropes and Figures of <hi>Quinti<g ref="char:EOLhyphen"/>lian</hi> and <hi>Cicero;</hi> and yet he is in truth very little beholding to it, because it doth so often turn upon himself, and
+<pb n="41" facs="tcp:46220:25"/> his Bigotted Party; and Particularly in this Letter.</p>
+            <p>Evil speaking is indeed the most general fault that I know of, amongst all Parties, and Men; and he that is Innocent, let him cast the first Stone at his Neighbour. But,</p>
+            <p>Those who have most opened their Mouths against the Church, have been (as I take it) such who have most suffered by it: And it is more excusable in such than in others to talk freely; according to the Proverb, <hi>Give the loser leave to speak.</hi> For Jails and Fines will make Tongue tied Men Speak. And 'tis se<g ref="char:EOLhyphen"/>vere to condemn Sufferers for complain<g ref="char:EOLhyphen"/>ing</p>
+            <p>But how unwise is it, to frame such Accusations against the Dissenters as recoil upon himself, and his own fiery Party. For how common hath it been to Brand them for Men Schismatical and Seditious, Phanatical, and Phari<g ref="char:EOLhyphen"/>saical, Hypocritical, and Fradulent, <hi>&amp;c.</hi> and to heap up all the evil they possibly can in their Discourses against them. And this Author might justly be a<g ref="char:EOLhyphen"/>shamed, and blush, if he had any Blood in his Veins, and all of it were not converted into Gall when he Wrote
+<pb n="42" facs="tcp:46220:26"/> this Letter: For almost every Line of his Letter, and Book flies in his Face, and tells him</p>
+            <p>
+               <hi>Turpe est Doctori cum culpa redarguit ipsum.</hi> It Preacheth to him like St. <hi>Paul; Thou therefore, which Teachest another, Teachest thou not thy self?</hi>
+            </p>
+            <p>His whole Book is a Collection of Slanders, and yet he hath the boldness to Write a whole Letter to throw them in the Teeth of other Men, as if they did intirely ly at their Door.</p>
+            <p>But indeed in this Letter he Censures and Confutes his whole Book, by condemning evil speaking, and he condemns himself as much as the Dis<g ref="char:EOLhyphen"/>senters.</p>
+            <p>He Closes his Letter with places of Scripture against Censuring, and Judg<g ref="char:EOLhyphen"/>ing; and amongst the rest, he Cites one which pronounces himself to be inexcusable, <hi>viz. Therefore thou art in<g ref="char:EOLhyphen"/>excusable O Man that Judgest; for where<g ref="char:EOLhyphen"/>in thou Judgest another thou Condemnest thy self.</hi>
+            </p>
+            <p>He also cites our Saviour's Words; <hi>Judge not that you be not Judged;</hi> and at the same time sets up for a Judge him<g ref="char:EOLhyphen"/>self: And whilest he is Writing down
+<pb n="43" facs="tcp:46220:26"/>
+               <hi>Thinkest thou O Man that Judgest another, thou shalt escape the Judgment of God:</hi> He hath some Judgement and Censures of his own ready to drop off from the Top of his Pen.</p>
+            <p>I cannot but take notice of one thing more particularly, which he several times in this Letter blames the Dissen<g ref="char:EOLhyphen"/>ters for; And that is, for <hi>lamenting, and complaining of the Iniquity of the Times.</hi>
+            </p>
+            <p>But doth it become a Divine to lay this at their Charge, when every good Man doth the same. The House of Commons hath lately done it in an Address; The King hath done it in His Proclamation for punishing Immora<g ref="char:EOLhyphen"/>lities; And the Societies for Reformati<g ref="char:EOLhyphen"/>on in <hi>London,</hi> consisting of many worthy Members of the Church of <hi>England,</hi> as well as Dissenters, have done the same.</p>
+            <p>I have only one thing more to say, and that is, that 'tis the Wisdom, and Interest of both Parties to govern their Tongues, to abstain from evil speaking, and to be as sparing as possible of their Censures and Reproaches.</p>
+         </div>
+         <div n="7" type="letter">
+            <pb n="44" facs="tcp:46220:27"/>
+            <head>REFLECTIONS ON <hi>Letter</hi> VII.</head>
+            <p>THE Sixth Artifice of the Dissen<g ref="char:EOLhyphen"/>ters which he insists on in this Letter, is, to <hi>Stile the Lawful and Wise Injunctions of our Superiors, by the odi<g ref="char:EOLhyphen"/>ous Name of Impositions; a term import<g ref="char:EOLhyphen"/>ing more of Fraud, and double dealing; than Truth and Justice in them.</hi>
+            </p>
+            <p>One can scarce forbear to smile at his Ignorance, in Reading this Letter. For he takes the word <hi>Imposition,</hi> to signifie the same as Imposture. And so fancies that such of the Dissenters as have complained of Ceremonies, <hi>&amp;c.</hi> of the Church, under the notion of their being Impositions, have com<g ref="char:EOLhyphen"/>plained of their being Deluded, and Cheated by the Government; as if the Parliament had forged deeds to cozen them, or had over reached them in Bar<g ref="char:EOLhyphen"/>gaining, or put false Dice upon them in Play.</p>
+            <pb n="45" facs="tcp:46220:27"/>
+            <p>That I might not be thought to have Misrepresented him; you will find him speaking the same Language in several other Places; as particularly where he says, that if they <hi>are told of the un<g ref="char:EOLhyphen"/>reasonableness of Separation, they fly upon us with the mischief of Impositions, and rather than own themselves Schis<g ref="char:EOLhyphen"/>maticks will make their Governors Im<g ref="char:EOLhyphen"/>postors,</hi> Pag. 62.</p>
+            <p>Now what if the Word Imposter be sometimes used to signifie a Cheat; doth it therefore follow that the Word <hi>Impo<g ref="char:EOLhyphen"/>sition</hi> must necessarily signifie Cheating, in spight of common Use, which is the Master of the Mint for Words, and their signification.</p>
+            <p>At this rate, the Taxes of the Go<g ref="char:EOLhyphen"/>vernment, which are usually stiled <hi>Impositions,</hi> must be accounted Pub<g ref="char:EOLhyphen"/>lick Frauds: And whensoever Impo<g ref="char:EOLhyphen"/>sitions are laid upon Sugar and To<g ref="char:EOLhyphen"/>bacco, they are to be reckon'd a Parliamentary Cheat upon the Smoak<g ref="char:EOLhyphen"/>ers, and sweet Lipp'd People: Indeed they draw Mony from them, but I hope it will not be construed to be by Jug<g ref="char:EOLhyphen"/>gling, and slight of Hand. I believe never any Dissenter used the word in this Sense, and yet a great part of
+<pb n="46" facs="tcp:46220:28"/> the Charge, in this Letter against them is for <hi>Arraigning King, Lords, and Commons as Jugglers, and Impostors; as Fraudulent and double in their Deal<g ref="char:EOLhyphen"/>ings.</hi>
+            </p>
+            <p>Because he is so very subject to mis<g ref="char:EOLhyphen"/>akes, I will tell him, that the Dissen<g ref="char:EOLhyphen"/>ters have understood nothing else by the word Impositions, than human In<g ref="char:EOLhyphen"/>junctions in the Worship of God. I perceive he likes the word Injunctions abundantly bette<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> than the other; tho' they are of the same Import.</p>
+            <p>He tells us, that it <hi>is fit and reasona<g ref="char:EOLhyphen"/>ble that all who ar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to Officiate in the Church, should give Asse<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, and Consent, to all that is contained, and prescribed in the Com<g ref="char:EOLhyphen"/>mon-Prayer-Book;</hi> This he thinks to be a necessary Injunction.</p>
+            <p>But then 'its great pity that since so many are oblig'd to Read the Liturgy, that it is not so accommodated to general use, as not to contain in it Matters of Scruple and Exception. The enjoining unnecessary Terms of Communion, hath been from time to time, one of the great<g ref="char:EOLhyphen"/>est mischiefs that the Church hath suffer<g ref="char:EOLhyphen"/>ed under. And these unnecessary Terms of Communion do not wholly respect the Dissenting Teachers, as he suggests,
+<pb n="47" facs="tcp:46220:28"/> but the People too. There being several things in the Church Administrations which they have objected against.</p>
+            <p>The last thing which he takes no<g ref="char:EOLhyphen"/>tice of, and which he calls another Branch of the Artifice, is <hi>the stiling the just Penalties of Wholesome Laws by the hateful Name of Persecution.</hi>
+            </p>
+            <p>Penalties in matters Religious deserve no better Name; 'tis a Name that com<g ref="char:EOLhyphen"/>mon use hath given them in all Ages; 'tis no better than a <hi>Bull</hi> to call such Laws wholesom, as Impoverish and Ruin a People, meerly for different Sentiments in Religion; Yea such Laws tend to weaken and destroy Kingdoms, by discouraging Industry, suppressing Trade, depopulating Countrys; and therefore Merchants are generally for Liberty of Conscience.</p>
+            <p>Such Penalties are also as contrary to the Kingdom of Christ, as they are per<g ref="char:EOLhyphen"/>nicious to the Kingdoms of Men. The Laws of Men that Inflict them are very unsutable to the Laws of Christianity; and there is so great a variance betwixt them, as that 'tis impossible they should be Reconciled.</p>
+         </div>
+         <div n="8" type="letter">
+            <pb n="48" facs="tcp:46220:29"/>
+            <head>REFLECTIONS ON <hi>Letter</hi> VIII.</head>
+            <p>A Seventh Artifice of the Dissenters which is the Subject of this Let<g ref="char:EOLhyphen"/>ter's Raillery, <hi>is to keep the People in Igno<g ref="char:EOLhyphen"/>rance of the nature and danger of Schism, or else to feed them with wrong Notions and Conceits of it.</hi>
+            </p>
+            <p>The Charge of Schism hath been the great Shot that hath been so furiously plaied upon the Dissenters, time after time, from the G<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and Batteries of the Press and Pulpit.</p>
+            <p>But it hath been done with so little Success, that one world have thought the Officers of this Ecclesiastical Artille<g ref="char:EOLhyphen"/>ry, should by this time have given off Firing.</p>
+            <p>But because this Charge makes a very Roaring Noise in the Ears of some Men, therefore 'tis continually prosecuted, and pursued.</p>
+            <pb n="49" facs="tcp:46220:29"/>
+            <p>For, says our Author, <hi>Schism is one of the greatest sins that can be committed, being a tearing in pieces the Body of Christ, and as far exceeds any other Vice</hi> (the sin against the Holy Ghost not excep<g ref="char:EOLhyphen"/>ted) <hi>as rending one Limb from another, is worse than a corrupt humour.</hi>
+            </p>
+            <p>Now all this is applied to the Dis<g ref="char:EOLhyphen"/>senters; they are guilty of a first-Rate Sin, such a sin as <hi>Adam</hi> and <hi>Eve</hi> com<g ref="char:EOLhyphen"/>mitted, that had a great many others in the Belly of it; and they are guilty of this great sin, meerly by not going to Church.</p>
+            <p>And what is yet worse, he complains, That the Dissenting Teachers <hi>don't in<g ref="char:EOLhyphen"/>struct the People in the Nature</hi> of this sin of <hi>Schism, i. e.</hi> tho' they have a dif<g ref="char:EOLhyphen"/>ferent Notion of it from our Divine, yet they must Preach up his Conceit to their People.</p>
+            <p>As for instance, we may imagine one of their Teachers Preaching to the Peo<g ref="char:EOLhyphen"/>ple, according to his advice, after this manner:</p>
+            <p>I am very sorry to see so many come hither at this time, and upon this oc<g ref="char:EOLhyphen"/>casion; for the Church alone is that <hi>Jerusalem</hi> where men ought to worship, our Fathers having worshipped there
+<pb n="51" facs="tcp:46220:30"/> before us. This House in which I Preach, tho' it be Licens'd or Allowed, yet it is not Consecrated, and in co<g ref="char:EOLhyphen"/>ming hither you are guilty of one of the greatest Sins that can be commit<g ref="char:EOLhyphen"/>ted; you are worse than Jews, in tear<g ref="char:EOLhyphen"/>ing in pieces the Body of Christ, and rending one Limb from another. In separating from the Church of <hi>England,</hi> you separate from the Catholick Church, out of which there is no Salvation. I Preach now in a Conventicle, in a Meeting of Pharisees, and Schisma<g ref="char:EOLhyphen"/>ticks. Perhaps you have heard or read in some Books of Divinity, that the pure Preaching of the Word of God, and due Administration of the Sacra<g ref="char:EOLhyphen"/>ments, are Marks of a true Church: but tho' you have these Marks, yet you want some others of great Importance. For where is your Liturgy, and your Ecclesiastical Rites and Ceremonies? are these things to be found among you? no, and therefore when you are weighed in the Ballance, you will be found wanting. Pray consider what the Apostle saith, <hi>There is one Lord, one Faith, one Baptism. One Lord,</hi> that is, one Lord Bishop of the Diocess. <hi>One Faith,</hi> which is, that the Church of
+<pb n="50" facs="tcp:46220:30"/>
+               <hi>England</hi> is the only true Church in <hi>England.</hi> And <hi>One Baptism, i. e.</hi> with Godfathers, Godmothers, and the sign of the Cross. And where there is not this one Lord, one Faith, one Baptism, there is no true Church. And therefore I will tell you how it will go with you at the day of Judgment, you will be sent out on the left hand amongst the Goats. For the Judge will thus pass Sentence upon you, saying, Whereas you were not of the Church of <hi>England,</hi> as by Law establish'd, were no good Friends to the Miler, had no liking to the Sur<g ref="char:EOLhyphen"/>plice, the holy Garments of my Priests, did not cause your Children to be signed in Baptism with the figure of the Cross: Therefore ye wicked Schisma<g ref="char:EOLhyphen"/>ticks <hi>Depart from me; Go ye cursed in<g ref="char:EOLhyphen"/>to everlasting fire, prepared for the Devil and his Angels.</hi>
+            </p>
+            <p>Now such like stuff as this, I sup<g ref="char:EOLhyphen"/>pose our Divine would have the Dis<g ref="char:EOLhyphen"/>senting Teachers to Preach to the Peo<g ref="char:EOLhyphen"/>ple, that they might not keep them in Ignorance of the nature and danger of Schism; but they desire to be excus'd, fearing lest they should Preach false Doctrine.</p>
+            <pb n="52" facs="tcp:46220:31"/>
+            <p>But since there is so much ado about Schism; let us examine a little into the true nature of it, for, 'tis possible, <hi>he might feed himself and his People with wrong notions of it,</hi> much more than the Dissenters do theirs.</p>
+            <p>Now I have often thought, that if we would find out the nature of Schism, the best way will be to enquire what sense the word Schism bears in the New Testament. And I have been con<g ref="char:EOLhyphen"/>firmed in this Thought, by a little Book Printed in 1690. Intituled, <hi>A brief En<g ref="char:EOLhyphen"/>quiry into the true Nature of Schism;</hi> Or, <hi>A Perswasive to Christian Love and Charity. By</hi> M. H.</p>
+            <p n="1">1. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is used eight times, and no more in the New Testament.</p>
+            <p n="1">1. 'Tis twice used to signifie a <hi>Rent in a Garment, viz. Matt.</hi> 9.16. <hi>Mark</hi> 2.21. This is its literal sense.</p>
+            <p n="2">2. Its figuratively used for a <hi>division among Men,</hi> and that either for a divisi<g ref="char:EOLhyphen"/>on meerly in Opinion or Apprehension: So its used in the 7 <hi>John</hi> 43. the 9 <hi>John</hi> 16. and the 10 <hi>John</hi> 19. in which pla<g ref="char:EOLhyphen"/>ces, 'tis said there were Divisions a<g ref="char:EOLhyphen"/>mong the People, or Schisms, as 'tis in the Greek, <hi>i. e.</hi> some thought Christ to be the Messiah, others not; none of
+<pb n="53" facs="tcp:46220:31"/> these significations of the word do reach our present case: but then it is also used to signifie a <hi>Division amongst Men in point of Affection:</hi> and in this sense it is used three times in the first Epi<g ref="char:EOLhyphen"/>stle to the <hi>Corinthians,</hi> and no where else in the whole New Testament.</p>
+            <p>Now let us consider these 3 places. The 1st. Is in 1 Cor. 1.10. <hi>Now I be<g ref="char:EOLhyphen"/>seech you Brethren by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no Divisions or</hi> Schisms <hi>among you, but that ye be per<g ref="char:EOLhyphen"/>fectly joyned together in the same mind, and in the same judgment. i.e.</hi> as most Expo<g ref="char:EOLhyphen"/>sitors interpret it, in adhering to the great Doctrines of Christianity, without be<g ref="char:EOLhyphen"/>ing Contentious about smaller matters.</p>
+            <p>The occasion of this Advice was, a contest and uncharitable wrangling in the Church of <hi>Corinth,</hi> about their three Teachers, <hi>Paul, Apollos,</hi> and <hi>Cephas;</hi> each of them having a different Party, crying him up, and speaking contem<g ref="char:EOLhyphen"/>ptibly of the other; and this was done with a great deal of heat, strife, and uncharitableness. <hi>It hath been declared to me, that there hath been contentions a<g ref="char:EOLhyphen"/>mong you,</hi> says the Apostle, verse 11. And this is farther manifest from the
+<pb n="54" facs="tcp:46220:32"/> 3d Chapter, where he tells them of their <hi>envying, strife and divisions.</hi> The words <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> are here used, which shew that this difference was attended with heat and wrath, and therein lay the great Guilt of it. The Schism, <hi>as</hi> Mr. <hi>H. observes,</hi> did not lye in this, That one heard <hi>Paul,</hi> and another <hi>A<g ref="char:EOLhyphen"/>pollos,</hi> and a third delighted to hear <hi>Cephas;</hi> but that they sacrific'd Chri<g ref="char:EOLhyphen"/>stian Love to this difference of appre<g ref="char:EOLhyphen"/>hension. And it seems to me the words may be Paraphrased thus, Be not so much divided in your Opinions con<g ref="char:EOLhyphen"/>cerning your Teachers, as to suffer your Spirits to be inflamed with Heats and Animosities; but be of one mind in thinking them to be equally the Mini<g ref="char:EOLhyphen"/>sters of Jesus Christ, and that you might not speak so differently of them, endeavour to entertain a good Opinion of them all, and to lay aside those di<g ref="char:EOLhyphen"/>versifying Thoughts which you have of them, that you might not involve your selves in Schism, by your dissaf<g ref="char:EOLhyphen"/>fections to one another, and your un<g ref="char:EOLhyphen"/>charitable Contests and Strife about them.</p>
+            <p>The next place in the Epistle to the <hi>Corinthians,</hi> where the word Schism is
+<pb n="55" facs="tcp:46220:32"/> used, is 1 <hi>Cor.</hi> 11.18. <hi>I hear there be Divisions among you;</hi> 'tis in the Greek <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>Now by the word here cannot be meant any separation from another Church; for its expresly said, that they <hi>came together into one place,</hi> v. 20. All that is to be understood then by their Schism is, that that they had some unchristian Heats and Quarrels when they came together at the Lords Supper, and their Feasts of Love: and 'tis probable the Quarrels arose because some came too late, and the others did not tarry for them: And this Reason may be given for this Supposition, because the Apo<g ref="char:EOLhyphen"/>stle advises them, verse 33. <hi>To tarry for one another.</hi>
+            </p>
+            <p n="3">3dly. The third place in this Epistle where the word Schism is used, is 1. Cor. 12.25. <hi>That there should be no Schism in the body, but that the members should have the same care one for another.</hi> St. <hi>Paul</hi> had been before speaking of the diversities of Gifts of one Spirit, and the various Members of one Body, and shewn that God had so temper'd the Body, that one Member of it was ser<g ref="char:EOLhyphen"/>vicaeble to the other, and whether one Member suffers, all the Members suffer
+<pb n="56" facs="tcp:46220:33"/> with it, or one Member be honoured all the Members rejoyce with it. This is spoken of the Body Natural, but 'tis presently applyed to the Body Spiritual, the Church, where the Members do or ought to sympathize with one another. And where there is not such Sympa<g ref="char:EOLhyphen"/>thy among Christians, where they are not affected with one anothers Griefs, there is the <hi>Schism</hi> here spoken of. For such who have not Compassion, have not true Christian Charity, and in that respect are Schismatical.</p>
+            <p>Upon the whole, I observe, That the word <hi>Schism</hi> doth in none of these places signifie a divided Communion from a Church establish'd by Law; but rather an uncharitable alienation of Af<g ref="char:EOLhyphen"/>fection, and Quarrels among those of the same Church, about small matters in difference.</p>
+            <p>But here he comes on and tells us, <hi>That if these lesser Differences among Members of the same Church, be by the Apostle stil'd Schisms; how much more must those greater Variances of breaking Communion, and setting up separate Meet<g ref="char:EOLhyphen"/>ings, be condemn'd for such.</hi>
+            </p>
+            <pb n="57" facs="tcp:46220:33"/>
+            <p>To which I say,</p>
+            <p n="1">1st. That the far greatest part of the Dissenters were never in Communion of the Church of <hi>England,</hi> and so ne<g ref="char:EOLhyphen"/>ver broke Communion from her. Here see farther what is said in the Reflecti<g ref="char:EOLhyphen"/>ons on the <hi>first Letter,</hi> on this subject.</p>
+            <p n="2">2dly. 'Tis not dividing Communion, or holding a separate Communion, but Uncharitableness in it that makes the Schism, and neither those persons that are in the Bosom of the Church, nor those out of it can be excused from Schism, if they break the Bonds of Christian Love, if they do not hold the unity of the Spirit in the bond of Peace, but wrathfully Judge one another, in the things they differ. And whereas he makes Schism to be <hi>the occasion of great Heats and Animosities;</hi> these Heats and Animosities are rather the Scism it self.</p>
+            <p>The nature of Schism therefore con<g ref="char:EOLhyphen"/>sisting in alienation of Love and Affecti<g ref="char:EOLhyphen"/>on, upon the account of smaller mat<g ref="char:EOLhyphen"/>ters in difference. We are not to be<g ref="char:EOLhyphen"/>lieve, that any Church on Earth hath Authority to make any other thing to be Schism, that hathh not this in<g ref="char:EOLhyphen"/>separable property, or to tack a new
+<pb n="58" facs="tcp:46220:34"/> sense to the word, and thereby to in<g ref="char:EOLhyphen"/>volve People under the phantastical Guilt of it.</p>
+            <p>Or, if another Sense different from what it hath in the New-Testament, must be put upon it, it should not be this late one, created within these Hundred Years, on purpose to serve a turn against the Dissenters: But it should be that Sense which it obtained several Centu<g ref="char:EOLhyphen"/>ries ago. For in several Ages of the Church, it hath been use'd to signifie <hi>a Contention of</hi> 2 <hi>or</hi> 3 <hi>Persons about a Bi<g ref="char:EOLhyphen"/>shoprick,</hi> and this is nearest the Original Signification of the Word in 1 <hi>Cor. ch.</hi> 1. For here some were for <hi>Paul,</hi> some for <hi>Apollos,</hi> and some for <hi>Cephas;</hi> and eve<g ref="char:EOLhyphen"/>ry Bishop for himself: But in this very last there may be some Dissimilitude in<g ref="char:EOLhyphen"/>deed.</p>
+            <p>This was the Schism of the Donatists, as I have shewn before: It was Origi<g ref="char:EOLhyphen"/>nally a Quarrel about the Bishoprick of <hi>Carthage,</hi> This was the Schism at <hi>An<g ref="char:EOLhyphen"/>tioch</hi> betweeen <hi>Meletius, Paulinus,</hi> and <hi>Euzoius.</hi> And <hi>Bussieres,</hi> an Elegant Writer, in his <hi>Flosculi Historici,</hi> at the latter end of the Book, draws a Catalo<g ref="char:EOLhyphen"/>gue of 26 Schisms, that had been in the Church, which are all Quarrels of Bi<g ref="char:EOLhyphen"/>shops
+<pb n="59" facs="tcp:46220:34"/> and their Parties, about Bishop<g ref="char:EOLhyphen"/>ricks: As the Schism of <hi>Novatian</hi> against <hi>Cornelius;</hi> of <hi>Foelix,</hi> and <hi>Liberius;</hi> of <hi>Ʋrsicinus</hi> against <hi>Damasus,</hi> &amp;c. And this hath been a common Notion of Schism amongst Ecclesiastical Histori<g ref="char:EOLhyphen"/>ans.</p>
+            <p>To proceed, I will ask our Author what he thinks of Foreign Protestants, as particularly the <hi>French.</hi> Are they Schismaticks, if they come over, and Dwell amongst us, and do frequent the Dissenters Meetings. It's certain, that they are not Schismaticks in their own Country: Will the change of Air make them to be so here? If he says, that they are Foreigners still, tho' they Live a<g ref="char:EOLhyphen"/>mongst us, I'll suppose then they be Na<g ref="char:EOLhyphen"/>turaliz'd by Act of Parliament, Will such an Act of Naturalization <hi>ipso facto,</hi> draw the Guilt of Schism upon them? If it will, then wo be to them for be<g ref="char:EOLhyphen"/>ing made <hi>English</hi>-men: For the Devil enters into them by Act of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>I have one thing more to take notice of in this Letter, and that is, his decla<g ref="char:EOLhyphen"/>ring again openly for Persecution. For in the last Paragraph, <hi>pag.</hi> 80. he hath these words: <hi>And yet there is one way
+<pb n="60" facs="tcp:46220:35"/> by which the Parliament may rid this Evil,</hi> viz. <hi>Schism out of the Land, and that is, by removing Schismatical Teachers, and Suppressing Seditious Conventicles.</hi>
+            </p>
+            <p>Here he tempts our Legislators to en<g ref="char:EOLhyphen"/>ter on a Dominion over the Consciences of Men, which is at best, in the most tole<g ref="char:EOLhyphen"/>rable Construction of it, but a doing evil, that good may come of it; and it doth very ill become a Divine, who should be a Teacher of Peace and good Will, to be not only an Advocate for Persecution, but to provoke Men to set it on foot, when 'tis directly contrary to the Laws of Christianity. And the Experience of Past-times hath plainly demonstrated, that Men cannot be con<g ref="char:EOLhyphen"/>verted this way. Force may sometimes make Hypocrites, but it never makes true Converts. It may change their way of Worshipping for a time, but ne<g ref="char:EOLhyphen"/>ver changes their Minds. The new Con<g ref="char:EOLhyphen"/>verts (as they are called) in <hi>France</hi> have notwithstanding the Dragooning, taken all opportunities to Exercise their old Religion; which shews, that the same may be said of Religion which hath been said of Nature, <hi>viz.</hi>
+            </p>
+            <q>Naturam expellas Furcâ licet, usque recurret.</q>
+            <pb n="61" facs="tcp:46220:35"/>
+            <p>Besides, as I have intimated, 'tis Bar<g ref="char:EOLhyphen"/>barous, and directly contrary to the Gospel of Peace and Love; it lays the Axe to the very Root of Christianity, and is ready to Hew it down for the Fire. Our Saviour's Religion is established on the Foundation of Love, and he never used nor encouraged Coercive Method's to defend it. His Kingdom was not a Kingdom of this World. But O! what pity is it, will our Bigots say, that it had not been so, that they might have had one Argument from Christianity, and a strong Iron one on their side?</p>
+            <p>What pity is it, that our Saviour, be<g ref="char:EOLhyphen"/>sides Evangelists, Apostles, and Pastors had not also constituted Informers, Ap<g ref="char:EOLhyphen"/>paritors, and Jaylors, as Officers in his Church, that he might have forc'd the <hi>Jews</hi> and <hi>Gentiles</hi> to believe, whether they would or no; and might have put Faith and Fetters on them at the same time.</p>
+            <p>But, <hi>Faith cometh by hearing, and hear<g ref="char:EOLhyphen"/>ing by the Word of God, which is the Sword of the Spirit,</hi> and which hath triumph'd over the Temporal Swords of Emperors and King's; and is the only Weapon to be made use of to propagate Religion and Truth.</p>
+            <pb n="62" facs="tcp:46220:36"/>
+            <p>Penal Laws are useless to this purpose. For Fines may empty Men's Purses, but they will not turn their Hearts; and there is no <hi>Mittimus</hi> that will make a Convert.</p>
+         </div>
+         <div n="11" type="letter">
+            <pb n="63" facs="tcp:46220:36"/>
+            <head>REFLECTIONS ON <hi>Letter</hi> XI.</head>
+            <p>ANother pretended Artifice of the Dissenters, (to which our Author proceeds in this Letter) is <hi>their mistaking or misinterpreting sundry passages of the Holy Scripture, whereby they wrest it from the true sense, and draw it to serve their own purpose.</hi> And here the stale Com<g ref="char:EOLhyphen"/>parison of the Pharisee comes on again. For (says he) <hi>Herein again they are the followers of the Pharisees, who by their false glosses, and perverse interpretations made void the Law of God.</hi>
+            </p>
+            <p>'Tis very true, that the <hi>Pharisees did go to make void the Law of God, by their false Glosses and Interpretations.</hi> For they Interpreted it after such a perverse manner, as if it gave them liberty to establish their own Traditions, <hi>by which they transgressed the Commandment of God, and Worshipped in vain, Teaching for Do<g ref="char:EOLhyphen"/>ctrines the Commandments of Men.</hi>
+            </p>
+            <pb n="64" facs="tcp:46220:37"/>
+            <p>But let us see what these places of Scripture are, which the Dissenters do misinterpret. The</p>
+            <p>
+               <hi>First, is</hi> Deuteronomy 4. ch. 2. ver. <hi>Ye shall not add unto the word which I com<g ref="char:EOLhyphen"/>mand you, neither shall ye diminish ought from it.</hi>
+            </p>
+            <p>Now he will not allow this to be any prohibition of Human Injunctions or Im<g ref="char:EOLhyphen"/>positions: But tells us the plain sense of the Word is this: <hi>Ye shall not transgress the commandments of God, by doing any thing contrary to th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m, which is to add to them; or by omitting any thing required by them, which is to diminish from them.</hi>
+            </p>
+            <p>But, that this is not <hi>the plain sense of the Words,</hi> is evident from this Instance.</p>
+            <p>A Man is brought before a Justice of Peace for Swearing: The Justice tells him, that he is accused for <hi>making an addition to the Law,</hi> The Man stars and wonders what the Justice meanes; and begins to consider whether he were e<g ref="char:EOLhyphen"/>ver a Parliament-man: But then to take off his surprize, he is told, that he hath <hi>done contrary to the Law by Swearing, and doing contrary to the Law, is an addition to it,</hi> and therefore he must pay Two Shillings for the use of the Poor.</p>
+            <pb n="65" facs="tcp:46220:37"/>
+            <p>Now, according to our Author's plain sense of the Words in <hi>Deutronomy,</hi> this talk of the Justice, would be very Wise and Prudent: But all Men know, that tho' the Oath be in event an addition to the Poor, yet <hi>it is none at all to the Law.</hi> For at this rate every Swearer and Drunkard would be a Legislator.</p>
+            <p>Nor is the omitting to do what the Law requires, <hi>a diminishing of the Law.</hi> For if a Constable or Tithing-man omits to do what the Law requires: I hope the Law it self doth not lose any thing in weight by it. For if it should, many such diminishings would in time amount to a Repeal; and the non-observation of it would <hi>(ipso facto)</hi> abrogate▪ and destroy, it so that our Author's Interpre<g ref="char:EOLhyphen"/>tation looks like a Pharisaical Gloss, and what is become now of the <hi>plain sense of the Word.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Another Text made use of by the Dissenters (as he says) is <hi>Jer.</hi> 7.31. <hi>They built the high places of</hi> Tophet <hi>to burn their sons and their daughters in the fire, which I commanded them not, neither came it into my heart.</hi>
+            </p>
+            <p>Now, says he, which I commanded them not, is thus to be understood; <hi>which I had forbidden them.</hi>
+            </p>
+            <pb n="66" facs="tcp:46220:38"/>
+            <p>'Tis certain, that what the People are here condemn'd for doing, was forbid<g ref="char:EOLhyphen"/>den them: yet this doth not hinder it from being an offence for <hi>not being com<g ref="char:EOLhyphen"/>manded, as well as it was for its being for<g ref="char:EOLhyphen"/>bidden.</hi> For Guilt in some cases, may arise both ways.</p>
+            <p>
+               <hi>Thirdly,</hi> As to his 3d Text in <hi>Jos.</hi> 7.13. <hi>Concerning the accursed thing.</hi> I never knew the Text cited by any Dissenters in their own particular favour. But if any one of them hath interpreted it in that manner which he relates, such an Inter<g ref="char:EOLhyphen"/>pretation ought not to be imputed to the Dissenters in general, no more than the many misinterpretations in the Book, called, <hi>The contempt of the Clergy,</hi> are to be fastned on the whole Church As<g ref="char:EOLhyphen"/>sembled in Convocation.</p>
+            <p>
+               <hi>Fourthly,</hi> The last Text which he pre<g ref="char:EOLhyphen"/>tends hath been abused by these Interpre<g ref="char:EOLhyphen"/>ters, is in the 1 <hi>Cor.</hi> 10.32. <hi>Give no of<g ref="char:EOLhyphen"/>fence to the</hi> Jew, <hi>nor the</hi> Gentile, <hi>nor to the Church of God.</hi> In which Words, he tells us, <hi>The Apostle exhorted the first Christians to walk so warily and inoffensive<g ref="char:EOLhyphen"/>ly, as not to hinder the conversion of any, that neither</hi> Jew <hi>nor</hi> Gentile <hi>might be
+<pb n="67" facs="tcp:46220:38"/> kept off from embracing Christianity, or hardened in their Enmity and Opposition a<g ref="char:EOLhyphen"/>gainst it.</hi> And so far I will allow him to be in the right.</p>
+            <p>And for this, I hope he will be so Civil, as to allow me by comparing these Words with the Context, to add this ex<g ref="char:EOLhyphen"/>plicatory Paraphrase. There are some amongst you of the Church of <hi>Corinth,</hi> who Eat Meats which have been Sacri<g ref="char:EOLhyphen"/>fic'd to Idols; which tho' it may be in general Lawful, the Idol being nothing, and that which is offered to it being neither Sanctified nor Polluted by it, yet it is not expedient, because it will Scan<g ref="char:EOLhyphen"/>dalize others.</p>
+            <p>Therefore give no offence to the <hi>Jew</hi> this way, <hi>whose Conversion will be hindred by thinking thou Worshippest Idols;</hi> nor to the <hi>Gentile,</hi> who will also believe, that thou art an Idolater with him, tho' thou pretendest to the Worship of the only Living and True God; <hi>nor to the Church of God,</hi> who might have their Faith weakned by it, and may some of them be hereby provoked to desert the Chri<g ref="char:EOLhyphen"/>stian Assemblies. In this therefore, and in other things which are <hi>Indifferent,</hi> consult the good of others, and do not obstruct the enlargement of the Church,
+<pb n="68" facs="tcp:46220:39"/> hindring some from coming into it, and shutting others out of it, by stiff<g ref="char:EOLhyphen"/>ly adhering to matters of indifferen<g ref="char:EOLhyphen"/>cy.</p>
+            <p>And whereas our Author makes very light <hi>of discontenting or displeasing others</hi> in this respect, as if the words had no eye at all to that, he was so much in hast that he would not give himself time to look to the next verse, which in part interprets the former, where the Apostle subjoins his own Example as an Argument to perswade them not to give offence. <hi>Even as I please all men in all things,</hi> says he, <hi>not seeking mine own profit, but the profit of many that they may be saved.</hi>
+            </p>
+            <p>Since therefore the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> doth acknowledge several things in its Worship to be indifferent; this Rule of the Apostle seems in Equity and Reason to extend to her. And 'tis great pity that those things which are not Essential to a Christian Church should be retained, and pertinaciously insisted upon, to the exclusion of so many Thousands, that would be other<g ref="char:EOLhyphen"/>wise joined in Communion with her, and would strengthen her against A<g ref="char:EOLhyphen"/>theists, Infidels and Deists. Nothing
+<pb n="69" facs="tcp:46220:39"/> would be more for her honour, than to express her Charity (so renown'd a Vertue of the Christian Religion,) in some Pacificatory Alterations; and nothing would more tend to her Safe<g ref="char:EOLhyphen"/>ty, than to enlarge her Pale, and wi<g ref="char:EOLhyphen"/>den her Fold: this would be her <hi>Decus &amp; Tutamen.</hi>
+            </p>
+         </div>
+         <div n="10" type="letter">
+            <pb n="70" facs="tcp:46220:40"/>
+            <head>REFLECTIONS ON <hi>Letter</hi> X.</head>
+            <p>ANother Artifice of the Dissenters to uphold their Schism, is, he says, <hi>to promote the Interest of the Party, and to confine the Offices of Kindness and Charity to those of their own Sect.</hi> This was likewise (he tells us) the way of the Pharisees (for he doth not yet think the Comparison Threadbare) of whom our Saviour observed, <hi>Mat.</hi> 5.46, 47. <hi>That they would only salute their own Brethren, and do good to none but such as did good to them;</hi> meaning, That they made those of their own Sect the sole Objects of their Courtesie and Benefi<g ref="char:EOLhyphen"/>cence.</p>
+            <p>Charity ought not indeed to be con<g ref="char:EOLhyphen"/>fin'd to a Party; it is of a generous, bountiful and benificent nature. And therefore this Man hath a Face of Brass to recommend the Offices of <hi>Kind<g ref="char:EOLhyphen"/>ness
+<pb n="71" facs="tcp:46220:40"/> and Charity,</hi> and yet to speak aloud for Fines and Jayles, and Banishments, that are so contrary to the Principles of Christian Love. Is it an office of kind<g ref="char:EOLhyphen"/>ness to my Neighbour to plunder him of his Goods? Is it an office of Cha<g ref="char:EOLhyphen"/>rity to put him into a Prison? Is it a sign of my love and good-will to him to make him a Vagabond, and an Ex<g ref="char:EOLhyphen"/>il'd Man? our Author should therefore <hi>first have cast out the Beam out of his own eye that he might have seen clearly to have cast the mote out of the eyes of others.</hi> You know to whom this Advice was formerly given.</p>
+            <p>It would have been abundantly more just and reasonable, to allow the Dis<g ref="char:EOLhyphen"/>senters to complain first of want of Kindness and Charity, who have ma<g ref="char:EOLhyphen"/>ny of them Smarted under the severity of the Laws: But for such fiery Bigots of his Principles, to reproach Men for want of Charity, is just like a Mans re<g ref="char:EOLhyphen"/>proving Swearing with an Oath in his Mouth.</p>
+            <p>But he is willing to give you a Tast of the Dissenters <hi>want of Charity,</hi> in one or two things.</p>
+            <p n="1">
+               <pb n="72" facs="tcp:46220:41"/>1st. One thing is, <hi>their Trading within themselves, and thereby upholding their own Party.</hi> But</p>
+            <p>First, If this should be granted to be true, there is no doubt to be made, that it is in a great measure owing to to the enacting and executing Penal Laws, in matters of Religion; for when Men lye expos'd and obnoxious to Suf<g ref="char:EOLhyphen"/>ferings from a different Party, they will necessarily be shy in point of Commerce and Communication with them; and it cannot be otherwise. And, 'tis pro<g ref="char:EOLhyphen"/>bable, That Persecution hath been ve<g ref="char:EOLhyphen"/>ry Injurious to this Nation, in creating Jealousies of one another, and break<g ref="char:EOLhyphen"/>ing the Bonds of Love and Correspon<g ref="char:EOLhyphen"/>dence, that those who are Bigots on each side, are apt to look upon one another as persons of a distinct Spe<g ref="char:EOLhyphen"/>cies or Kind.</p>
+            <p>Secondly, This Gentleman will ne<g ref="char:EOLhyphen"/>ver give over objecting such things against the Dissenters, as may be as fairly retorted on the Church: for, do not its Members <hi>Trade within themselves</hi> as much as the other.</p>
+            <p>Thirdly, 'Tis not so generally true as he apprehends it to be, That the
+<pb n="73" facs="tcp:46220:41"/> Dissenters <hi>do thus Trade within them<g ref="char:EOLhyphen"/>selves,</hi> there are ten thousand Instances to the contrary. And after all, if the Dissenters are such Men as he repre<g ref="char:EOLhyphen"/>sents them to be, <hi>viz.</hi> given to Cheat<g ref="char:EOLhyphen"/>ing, it might be for the Churches In<g ref="char:EOLhyphen"/>terest to have them Trade within them<g ref="char:EOLhyphen"/>selves. But</p>
+            <p n="2">2dly. Another thing which <hi>disco<g ref="char:EOLhyphen"/>vers their want of Charity, is</hi> (he tells us) <hi>their making Matches, which they generally do within the Tribe, not only to keep up the old Stock, but to breed a new Race of Dissenters.</hi>
+            </p>
+            <p>I am glad to see he is so good na<g ref="char:EOLhyphen"/>tur'd to allow of <hi>Marriages</hi> between the two Parties. But I cannot imagine how a Man of such dividing and rigo<g ref="char:EOLhyphen"/>rous Principles should like it heartily, That the Sons of the Church should Wed the Schismatical Daughters of the Conventicles, <hi>&amp; vice versa;</hi> especially since they may be in danger of being made Proselites, and so be in danger of Damnation: or at least, one goes to the Church and the other to the Conven<g ref="char:EOLhyphen"/>ticle, which he can by no means ap<g ref="char:EOLhyphen"/>prove of in one place of his Book: besides, I wonder that he is not Jealous
+<pb n="74" facs="tcp:46220:42"/> of such Matches, that they will pro<g ref="char:EOLhyphen"/>duce a Mungrel Race of <hi>Latitudinari<g ref="char:EOLhyphen"/>ans,</hi> or Ecclesiastical Trimmers; an Amphibious sort of People, that will go to Church and Conventicle too; and whom he hates as much as he doth the Dissenters themselves. And then there is one thing more conside<g ref="char:EOLhyphen"/>rable, which is, That the Courtship is not like to be carried on with much success, because the Phanatick Gentle<g ref="char:EOLhyphen"/>man Courting the Church Lady, doth, according to his description of him, <hi>look so demurely, and talk so Religiously, pretend to so much light and knowledge, and purer Ordinances, and censure the Lives and Actions of the Members of the Church, and complain of the Impositi<g ref="char:EOLhyphen"/>ons or Impostures of the Government,</hi> that his Mistriss will not be very kind to him for this reason.</p>
+            <p>But now I think on't, he tells us, That this is <hi>the way of making Prose<g ref="char:EOLhyphen"/>lites,</hi> and if so, this may be the best way of Courting; and so he may gain a Spouse and a Convert at the same time.</p>
+            <p>Wherefore, 'tis something strange, That so thorow-pac'd a Bigot as our Author, should have the least liking
+<pb n="75" facs="tcp:46220:42"/> to such Matches. One would rather imagine, that he should reckon Fana<g ref="char:EOLhyphen"/>ticism amongst the Impediments of Marriage, and that it should be against his Conscience to publish the Banns of Matrimony between one of the Church, and a Dissenter.</p>
+         </div>
+         <div n="11" type="letter">
+            <pb n="76" facs="tcp:46220:43"/>
+            <head>REFLECTIONS ON <hi>Letter</hi> XI.</head>
+            <p>HE proceeds in this Letter to ac<g ref="char:EOLhyphen"/>quaint us, That <hi>another Artifice of the Dissenters to support their Schism, is, their working upon the weakness, the wilfulness, and the discontents of the Peo<g ref="char:EOLhyphen"/>ple, to serve their own ends upon them;</hi> which Artifice, he tells us, hath three Branches, which must particularly be laid open.</p>
+            <p>The <hi>first</hi> is, <hi>their working upon the weak<g ref="char:EOLhyphen"/>ness of the People, and making use of their Ignorance to betray them.</hi>
+            </p>
+            <p>'Tis very natural for Men, who are wise in their own conceit, to triumph and crow over others who differ from them, as <hi>Ignorant and Weak.</hi> They fan<g ref="char:EOLhyphen"/>cy themselves to be Giants in Under<g ref="char:EOLhyphen"/>standing, and that those round about them, who are not exactly of the same mind, are all Dwarfs and Pigmies; And whilst they are taking measure of
+<pb n="77" facs="tcp:46220:43"/> other Mens Abilities with a Span, they are so bloated with an Opinion of their own Parts, that they swell beyond Knowledge of themselves: they erect an Infallible Chair, and Dogmatically pass Sentence upon all that are of dif<g ref="char:EOLhyphen"/>ferent Sentiments, as Men wholly out of Favour of <hi>Apollo;</hi> as if indeed they had impropriated Wisdom, and had ta<g ref="char:EOLhyphen"/>ken out a Patent from Above, for the sole Use and Exercise of a good Un<g ref="char:EOLhyphen"/>derstanding.</p>
+            <p>But a Man that is Truly wise, and not Foppishly so, <hi>i. e.</hi> in his own Con<g ref="char:EOLhyphen"/>ceit, will be so Jealous of his own Un<g ref="char:EOLhyphen"/>derstanding, as to esteem himself and all Mankind beside fallible; and so will not run away with a Whim, That he and his Party are in the Light, and all that differ from him are be-nighted, and in such palpable darkness, that they cannot see their Hands before them.</p>
+            <p>In one of his Letters he makes the Dissenters to be the great <hi>pretenders to Light and Knowledge;</hi> but here he is willing to change places with them; or at least to imitate them, and set up for an Oracle himself.</p>
+            <pb n="78" facs="tcp:46220:44"/>
+            <p>Our Author will not let the <hi>Female Sex it self escape,</hi> but falls foul on them, for he says, <hi>The followers of the Dissen<g ref="char:EOLhyphen"/>ters consist chiefly of the weaker Sex, who are led more by Fancy than Judgment.</hi>
+            </p>
+            <p>This is an unmerciful Reflection on that Sex; and he did well to conceal his Name, for no doubt he would have come, and that deservedly, under the Displeasure of the Ladies, if he had publish'd it.</p>
+            <p>But in truth, so far as I have observ'd, there is the same proportion of Men to the Women, in the Meeting-House as there is in the Church. So that this is a Whim, and so is his inconsiderate talk of the <hi>Dissenters working upon the wilfulness and discontents of the People.</hi>
+            </p>
+            <p>This Gentleman seems to be trou<g ref="char:EOLhyphen"/>bled with the Hypocondriack Malady; and the Sons of <hi>Esculapius</hi> tell us, that this Distemper uses to affect the Brain, where it produces unaccountable Suspi<g ref="char:EOLhyphen"/>cions, Jealousies and Conceits, which some call Whims, others Maggots: And therefore before this Divine writes any more Letters, he would do well to go to <hi>Tunbridge</hi> for a Quarter of a Year to Drink the Waters; and when the Obstructions of his Spleen are o<g ref="char:EOLhyphen"/>pen'd,
+<pb n="79" facs="tcp:46220:44"/> the Mass of Blood sweetn'd, and the Animal Spirits reduc'd into good Order, 'tis possible he might write with more Charity, and a great deal more Truth; for the Vapours seem to have prevail'd so much upon him, that he delivers a great many things by a Fi<g ref="char:EOLhyphen"/>gure of Speech, that would be call'd a <hi>Lye,</hi> if it were not excus'd by the <hi>Deliriums</hi> of his Head.</p>
+         </div>
+         <div n="12" type="letter">
+            <pb n="80" facs="tcp:46220:45"/>
+            <head>REFLECTIONS ON <hi>Letter</hi> XII.</head>
+            <p>HE proceeds to complain in this Letter of another <hi>Artifice of the Dissenters to uphold their Schism, which is a pretence to Christian Liberty:</hi> Wherein he says, <hi>The<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> tread exactly in the very steps of the Papists, who call for Liberty, tho' themselves will give none; yea they herein not only follow the Steps, but Act the Part and promote the very designs of the Papists. For, did not the Roman Catho<g ref="char:EOLhyphen"/>licks struggle hard for this Liberty, meerly to bring about their own ends? And is it not well known how the Dissenters joyned with them in their endeavour of taking off the Penal Laws and Test, which would have Ʋndermined the Reformation, and Esta<g ref="char:EOLhyphen"/>blished Popery.</hi>
+            </p>
+            <p>Liberty, in matters of Religion, is so just a Right of Mankind, that I sup<g ref="char:EOLhyphen"/>pose the Dissenters are not much asham'd to be compared with the Papists in call<g ref="char:EOLhyphen"/>ing
+<pb n="81" facs="tcp:46220:45"/> for it. 'Tis a much greater shame and dishonour to some Bigots of the Church, that they are like the Papists, in being unwilling to grant it</p>
+            <p>And if the Presbyterians have former<g ref="char:EOLhyphen"/>ly been guilty, as he intimates, of the same Fault: I believe their Successors will not justifie them in it. And it's time for all to renounce this Inhumane method of falling foul on the Con<g ref="char:EOLhyphen"/>sciences of Men, who are only ac<g ref="char:EOLhyphen"/>countable in this matter to the Highest Tribunal.</p>
+            <p>As to their Behaviour in the time of King <hi>James:</hi> Nothing can be more disingenious, and ill-natur'd, than to Reproach them for endeavouring to take off those Laws, which they thought did not savour much of the Christian Re<g ref="char:EOLhyphen"/>ligion; and by which they had suffered, and been hurted; and by which 'twas possible they might suffer again. Hu<g ref="char:EOLhyphen"/>mane Nature is very tender, and will embrace all opportunities to secure its ease, in spight of Politicks: And I be<g ref="char:EOLhyphen"/>lieve any other Party would in their Circumstances, have been Enemies to those Laws which had been Enemies to them, and might in process of time be so again.</p>
+            <pb n="82" facs="tcp:46220:46"/>
+            <p>But of all Men, 'tis inexcusable in the professed Advocates for Persecution, to throw this in their Teeth, that they tryed when they thought they had a good opportunity to Repeal these Laws, which our Author and his fellow Bigots would have to be kept up, and be in Force for ever against them.</p>
+            <p>He comes on to take notice of a Plea of the Dissenters for <hi>Christian Liberty,</hi> which is taken from the di<g ref="char:EOLhyphen"/>rection of the Apostle to the <hi>Galatians, ch.</hi> 5. <hi>v.</hi> 1. where he advises them <hi>to stand fast in the Liberty wherewith Christ had made them Free, and not be en<g ref="char:EOLhyphen"/>tangled again with the Yoak of Bon<g ref="char:EOLhyphen"/>dage.</hi>
+            </p>
+            <p>Now, tho' it be granted that this Liberty of which the Apostle speaks, doth bear more immediate respect to the Ceremonial Law of <hi>Moses:</hi> Yet why might it not be Construed to extend in Reason and Equity, to all External Rites and Observations of the like Nature? Especially since 'twas manifest our Saviours design was to Establish the most Spiritual Worship, and to Refine it from material Repre<g ref="char:EOLhyphen"/>sentations. And if He hath free'd the Church from this Obligation of
+<pb n="83" facs="tcp:46220:46"/> observing those Rites as were Institu<g ref="char:EOLhyphen"/>ted in the Jewish Church, by the appointment of God Himself. The Ar<g ref="char:EOLhyphen"/>gument seems the stronger for a Li<g ref="char:EOLhyphen"/>berty, as to all other Rites which are not of a Divine but Humane Sancti<g ref="char:EOLhyphen"/>on.</p>
+            <p>And it was, for want of <hi>standing fast in this Liberty wherewith Christ had made them Free:</hi> That the Dominion, and numerous Rites and Superstitions of the Church of <hi>Rome</hi> spread so vast<g ref="char:EOLhyphen"/>ly and generally, over <hi>Europe,</hi> and in<g ref="char:EOLhyphen"/>vaded our own Country; that we were enthralled in a <hi>Yoak of Bondage,</hi> like the Jews; and were under a Foreign Jurisdiction.</p>
+            <p>'Tis true indeed, the Rites of the Church of <hi>England</hi> are very few, in Comparison of those of the Jews, and <hi>Romish</hi> Church; but these few being retained, seem to ly as a Foundation or Nest Egg for more.</p>
+            <p>And Archbishop <hi>Laud</hi> and his Crea<g ref="char:EOLhyphen"/>tures, endeavoured to add to this Foundation; And other considerable Persons in the Church of <hi>England</hi> have attempted a Coalition with the Church of <hi>Rome,</hi> upon mutual Condescensions, as is made evident in a Book called
+<pb n="84" facs="tcp:46220:47"/>
+               <hi>Celeusma,</hi> or, <hi>Clamor ad Theologos Hie<g ref="char:EOLhyphen"/>rarchiae Anglicanae,</hi> &amp;c. and also in Mr. <hi>Baxters</hi> Book <hi>against Foreign Juris<g ref="char:EOLhyphen"/>diction.</hi>
+            </p>
+            <p>
+               <q>And Dr. <hi>Thorndike</hi> hath expresly said, that if the Pope would Re<g ref="char:EOLhyphen"/>nounce the Authority of exempting the People from their Obedience due to Princes; and would keep him<g ref="char:EOLhyphen"/>self within the bounds of the Pa<g ref="char:EOLhyphen"/>triarchship; and look to the Execution of his Cannons: Then the with<g ref="char:EOLhyphen"/>drawing from the Church of <hi>Rome</hi> would be Schism; if we should re<g ref="char:EOLhyphen"/>fuse to joyn with it.</q> In the Book of <hi>Weights and Measures, p.</hi> 285.</p>
+            <p>And 'tis probable that the oppositi<g ref="char:EOLhyphen"/>on that hath been made to the Intro<g ref="char:EOLhyphen"/>duction of Ceremonies, and other In<g ref="char:EOLhyphen"/>novations in the Reign of King <hi>Charles</hi> the 1st. hath contributed to hinder the multiplica<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of them; and dis<g ref="char:EOLhyphen"/>courage the bold attempts of some, who had rather Unite with the Church of <hi>Rome</hi> than with the <hi>Protestant</hi> Dis<g ref="char:EOLhyphen"/>senters.</p>
+            <p>'Tis the Interest both of the Church and State in <hi>England,</hi> to keep as wide from the Church of <hi>Rome</hi> as possibly they can; and so to retain no Speci<g ref="char:EOLhyphen"/>men
+<pb n="85" facs="tcp:46220:47"/> of it's Polity, but what is absolute<g ref="char:EOLhyphen"/>ly necessary.</p>
+            <p>Now so long as Humane Injuncti<g ref="char:EOLhyphen"/>ons in matters of Religion are favour'd and patroniz'd, there seems to be no good Security against a fruitful propa<g ref="char:EOLhyphen"/>gation of them when occasion shall serve. For the same Authority that first created or constituted External Rites, and enjoyned unnecessary Things in the Worship of God, binding, and firmly obliging to the Use of them, may also multiply them <hi>in infinitum,</hi> and it will be difficult to assign the <hi>Ne plus ultra.</hi>
+            </p>
+            <p>But the best way to prevent this, seems to be the Advice of the Apostle, <hi>Stand fast in the liberty,</hi> &amp;c.</p>
+            <p>But now our Author hath a very strange conceit, That <hi>to take off Obedi<g ref="char:EOLhyphen"/>ence in indifferent things, doth not esta<g ref="char:EOLhyphen"/>blish but infringe the Liberty of the Peo<g ref="char:EOLhyphen"/>ple.</hi>
+            </p>
+            <p>This is as if a Man should have two Servants, <hi>Jack</hi> and <hi>Tom.</hi> He commands <hi>Jack</hi> constantly to frequent his Parish Church; but as for <hi>Tom,</hi> he lays no such Obligation upon him, but he may go to Church, or Conventicle, as he pleases. Now which think you of these
+<pb n="86" facs="tcp:46220:48"/> two is most at his Liberty? why, ac<g ref="char:EOLhyphen"/>cording to our Author, it must be <hi>Jack;</hi> because he being bound constantly to his Parish Church, is in no manner de<g ref="char:EOLhyphen"/>priv'd of the better way of serving God. But as for <hi>Tom,</hi> his Obedience in these indifferent Things being taken off, his Liberty is infring'd, and that in a strange manner too, <hi>viz.</hi> by the very granting it; and the Consequence of this is, That tho' there hath been a Law made in behalf of Dissenters, which hath commonly been called, <hi>The Act for Liberty of Conscience,</hi> yet People have been generally mistaken in calling it so. For since this Act takes off O<g ref="char:EOLhyphen"/>bedience in indifferent Things, it doth not establish but infringe the Liberty of the People: so that the poor Dissen<g ref="char:EOLhyphen"/>ters have no Liberty yet, and it should seem do only flatter themselves with a fancy of it.</p>
+            <p>For it follows from what he says in this Letter, That <hi>Christian Liberty</hi> con<g ref="char:EOLhyphen"/>sists in being bound up to one way of Worship, and that the best, which must be supposed to be that of the Church of <hi>England.</hi>
+            </p>
+            <p>But this Gentleman hath two Strings to his Bow, that if one of them should
+<pb n="87" facs="tcp:46220:48"/> unluckily break, the other might serve his Turn; for <hi>pag.</hi> 112. He lays down another Notion of Christian Liberty; and that is, <hi>Men have a Liberty of Judg<g ref="char:EOLhyphen"/>ment about the Nature of the Indifferent Things enjoined, so as not to take them to be Matters necessary for Salvation, but on<g ref="char:EOLhyphen"/>ly for Discipline and Order sake.</hi>
+            </p>
+            <p>See here the great Priviledge of the Members of the Church; they have the true genuine <hi>Christian Liberty,</hi> i. e. <hi>to think that several things in their Wor<g ref="char:EOLhyphen"/>ship, are not matters necessary to Salvation.</hi> But I am sure the Sons of the Church will not be very proud upon this <hi>Christi<g ref="char:EOLhyphen"/>an Liberty,</hi> for the Dissenters have of<g ref="char:EOLhyphen"/>ten enjoyed it in Gaol: but what a Phantom doth he make of Christian Li<g ref="char:EOLhyphen"/>berty; He confines it to the Act of the Understanding, hangs it up in the Thoughts, that it is near Allied to the Metaphysicians <hi>Ens ratione,</hi> and hath scarce more substance in it than a Spe<g ref="char:EOLhyphen"/>ctrum.</p>
+         </div>
+         <div n="13" type="letter">
+            <pb n="88" facs="tcp:46220:49"/>
+            <head>REFLECTIONS ON <hi>Letter</hi> XIII.</head>
+            <p>ANother Artifice of the Dissenters to keep up their Schism, is, he says, a pretence to <hi>better means of Edi<g ref="char:EOLhyphen"/>fication. This is a Device occasioned by the Ignorance of the People, and cherished in them by the Subtilty of their Teachers. They cannot Edifie they tell us, in the Church as in the Conventicle, and they profit more by the Sermons of the one than they can by the other.</hi>
+            </p>
+            <p>I Question whether a bare <hi>pretence to better Edification,</hi> without other Rea<g ref="char:EOLhyphen"/>son, will continually Justifie a Man in leaving one Teacher to hear another: for since there are so many degrees in the profitableness of Sermons, and so various the Opinions of People con<g ref="char:EOLhyphen"/>cerning them. This Principle is, as he says, <hi>A Principle of great Giddiness and Inconstancy.</hi>
+            </p>
+            <pb n="89" facs="tcp:46220:49"/>
+            <p>But on the other Hand, where a Man hath conceived a prejudice against his Teacher, a <hi>Camel</hi> might as soon pass through the Eye of a Needle, as such a Man's Doctrine enter into the Heart of one so prejudiced. And there are several Cases in which it is not meerly the Fault of the People that they are not Edified, but of their Teach<g ref="char:EOLhyphen"/>ers, in part at least. And as to the matter of Edification in general; It seems that no Man can be so proper a Judge of it as himself, whether he Edifies by this Preacher most or ano<g ref="char:EOLhyphen"/>ther; though our Author pretends to judge, That there is better Edification in the Church than in the Conventi<g ref="char:EOLhyphen"/>cles, and without doubt, the other Mem<g ref="char:EOLhyphen"/>bers of the Church think the same: so that here they come into the same predicament with the Dissenters, in <hi>pretending to better means of Edification.</hi> So that methinks this matter might be well enough accomodated, if each Par<g ref="char:EOLhyphen"/>ty will be content to enjoy their own Thoughts <hi>about the best means of Edifi<g ref="char:EOLhyphen"/>cation,</hi> and not boast and quarrel about it.</p>
+            <p>But now our Author will not allow the Dissenters to have any <hi>good means
+<pb n="90" facs="tcp:46220:50"/> of Edification at all; For he gives out, That they take the fond Opinions, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cted Phrases of a Party, for the best means of Edification.</hi>
+            </p>
+            <p>
+               <hi>As to fond Opinions,</hi> if he means by them, the <hi>Articles and Doctrines of the Church of</hi> England. The Dissenting Teachers have Subscribed them, and indeed Preach according to them. I hope he doth not begin to dislike the Doctrines of his own Church, because they are the Opinions and Sentiments of the Dissenters.</p>
+            <p>As to <hi>affected Phrases;</hi> 'Tis possible some may use them both in Church and Conventicle. Then is a large Ca<g ref="char:EOLhyphen"/>talogue of them, in the <hi>Contempt of the Clergy,</hi> and a great part of them lies at the Churches Door.</p>
+            <p>He proceeds to tell us, That the <hi>Dis<g ref="char:EOLhyphen"/>senters mistake the false Heats of Fancy for the true warmth of the Heart.</hi>
+            </p>
+            <p>Thus he talks as if he had felt the Pulse of all the Dissenters Hearts, and found them to be as cold as a Stone. But thus to know how it is with Mens Hearts throughout the Kingdom, is cer<g ref="char:EOLhyphen"/>tainly a great piece of Skill; and he must either be a Witch or a Fortune-Teller, as people speak.</p>
+            <pb n="91" facs="tcp:46220:50"/>
+            <p>Now he amplifies upon this, by tel<g ref="char:EOLhyphen"/>ling us, That they are <hi>deluded by a melting Tone, solemn Looks, and vehe<g ref="char:EOLhyphen"/>ment Action.</hi>
+            </p>
+            <p>I wish he had told us what <hi>Tones, Looks and Actions</hi> are most Canoni<g ref="char:EOLhyphen"/>cal.</p>
+            <p>Tho' I am as little a Friend to Af<g ref="char:EOLhyphen"/>fectation in <hi>Tones, Looks</hi> and <hi>Actions</hi> as any Man, yet I must observe, That those who Write of Rhetorick and O<g ref="char:EOLhyphen"/>ratory, do not only allow, but prescribe Rules for the Behaviour of the Speaker, in each of these things. And it well enough becomes a Minister to consider what Modulation of the Voice, what Aspect, and what Gestures are (within the compass of Decency) most proper to quicken the Attention, and enliven the Affections of his Auditory. There is no doubt that a loud Voice (if a Man be Master of it) will do more to keep the People awake and listening, than a low and Spiritless one; and if it be varied with proper Elevations, and suitable Depressions, <hi>&amp;c.</hi> as occasi<g ref="char:EOLhyphen"/>on requires; not only will the Rules of Oratory, but Experience also, speak for its Usefulness, and shew that it is ordinarily more profitable than an Even
+<pb n="92" facs="tcp:46220:51"/> and Uniform sound throughout a whole Sermon.</p>
+            <p>There is also very much in the As<g ref="char:EOLhyphen"/>pect or Looks, if a Man can command them, and doth not shame facedly suf<g ref="char:EOLhyphen"/>fer them to be commanded by the Au<g ref="char:EOLhyphen"/>ditory.</p>
+            <p>And as to <hi>Action,</hi> I have seen some Writers of Oratory direct the Motion of Hands, Arms and Fingers, almost to a degree of Mimickry. Without doubt there is a great Advantage in the ordering these Circumstances a<g ref="char:EOLhyphen"/>right, so as to keep within the Bounds of Decency, and not to pass within those of an uncouth Affectation; for no Minister is obliged to stand in the Pulpit like a Statue, that you can scarce know whether he be Preaching or no, but by the faint Motion of his Lips.</p>
+            <p>To conclude, I know not whether our Divine be so competent a Judge in this matter of Edification, as that his Censures on the Dissenters should pass without Controul. If he Preaches as he Writes, I think 'tis very little to Edi<g ref="char:EOLhyphen"/>fication.</p>
+         </div>
+         <div n="14" type="letter">
+            <pb n="93" facs="tcp:46220:51"/>
+            <head>REFLECTIONS ON <hi>Letter</hi> XIV.</head>
+            <p>THe Last Artifice which he pre<g ref="char:EOLhyphen"/>tends the Dissenters make use of to Propagate their Schism, is, <hi>Their Setting up, and encouraging little private Schools of Philosophy, to prepare and qualify Persons for the holding of Con<g ref="char:EOLhyphen"/>venticles.</hi>
+            </p>
+            <p>He takes it all along for granted, that the Dissenters are guilty of Schism, and here he brands their Schools for being Nurseries of it: But if his former talk about Schism and Faction have no Weight in it, there will be the less found in this Letter con<g ref="char:EOLhyphen"/>cerning their Schools.</p>
+            <p>The Two Universities are indeed Renowned Seminaries of Learning: But why should they be made Monopo<g ref="char:EOLhyphen"/>lies of it? Is Learning so Tender a Plant that it will not thrive out of
+<pb n="94" facs="tcp:46220:52"/> the Soil, and Air of <hi>Oxford,</hi> and <hi>Cam<g ref="char:EOLhyphen"/>bridge.</hi>
+            </p>
+            <p>He tells us, <hi>p.</hi> 126. <hi>That something is done in the Private Schools like the Universities, tho' for the most part to very little Purpose.</hi> And he calls it, in the next Page, <hi>A smattering in Learn<g ref="char:EOLhyphen"/>ing.</hi>
+            </p>
+            <p>But doth he think that Philosophy is Confin'd, and Circumscrib'd in Colledges as in Enchanted Castles, and that she never goes abroad to take the Air; but only favours such who visit her Magical Palaces? Are <hi>Aristotle, Gassendus</hi> and <hi>Descartes</hi> dif<g ref="char:EOLhyphen"/>ferent Books out of the Universities from what they are there? Or, are they more difficult to be understood? Is there a Charm, or Spell come upon them, that when they are Lodg'd in Private Schools they do not yield out their Notions? Or is there a Cramp upon Mens Understandings, that they have no Use of them in Studying there?</p>
+            <p>He seems willing to admit the Tu<g ref="char:EOLhyphen"/>tors in these Private Schools to be Men of Learning; and if it be added to this, that the Pupils have alike Books, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> like Lectures Read them, alike In<g ref="char:EOLhyphen"/>dustry,
+<pb n="95" facs="tcp:46220:52"/> alike Exercises; what should hin<g ref="char:EOLhyphen"/>der them from having alike Learning with the Gentlemen of the Univer<g ref="char:EOLhyphen"/>sities?</p>
+            <p>But here's the mischief of it: He tells us, that <hi>they Erect these private Semina<g ref="char:EOLhyphen"/>ries, against the most Renowned Ʋniver<g ref="char:EOLhyphen"/>sities, meerly to qualifie them to keep up pri<g ref="char:EOLhyphen"/>vate Conventicles, against the best Esta<g ref="char:EOLhyphen"/>blish'd Church in the Christian World.</hi>
+            </p>
+            <p>But if the same Philosophy be taught in these <hi>private Seminaries,</hi> as in the <hi>Renowned Ʋniversities,</hi> and the same Divinity in the <hi>private Conventicles,</hi> as in the <hi>Established Church;</hi> then these <hi>private Seminaries and Conventicles</hi> one would think, should be rather esteem<g ref="char:EOLhyphen"/>ed Partners with the <hi>Ʋniversities and Church,</hi> than Aliens and Enemies: And so perhaps it would be, if Bigotism did not too much Prevail.</p>
+            <p>He hath a mind to consider in Par<g ref="char:EOLhyphen"/>ticular these Three Things, <hi>viz.</hi> the <hi>Masters, Scholars,</hi> and <hi>Learning</hi> of these private Academies.</p>
+            <p>As to the <hi>Masters</hi> and <hi>Scholars:</hi> He tells us, that the First <hi>Teach,</hi> and the Second are <hi>Taught Schism.</hi>
+            </p>
+            <pb n="96" facs="tcp:46220:53"/>
+            <p>
+               <hi>Schism is the Burden of the Song,</hi> throughout his Book, and I believe the Burden of the Reader of it too. And yet Mr. <hi>Hales</hi> of <hi>Eaton</hi>-Colledge, (a very Learned Man of his own Church) doth, as I Remember, call it an <hi>Ecclesiastical Scarecrow.</hi>
+            </p>
+            <p>As to the <hi>Learning of these Acade<g ref="char:EOLhyphen"/>mies,</hi> which is his Third Head; and might have been as well Comprised under either of the other, as <hi>Schism</hi> was: He reckons up several parts of it, which plainly shew that he never belong'd to them, but is a stranger to their Methods. And therefore here, as well as in other parts of his Book, he delivers his splenetick Conjectures (if it be not something worse) for the greatest Certainties; as to the Truth of which I appeal to his own Conscience.</p>
+            <p>In the last Paragraph, excepting one, he mutters and grumbles, as if the <hi>Church and State</hi> were turning Topsy-Turvy: So that if he were not a <hi>Divine of the Church of England,</hi> one would soon Judge him to be a <hi>Ja<g ref="char:EOLhyphen"/>cobite.</hi>
+            </p>
+            <pb n="97" facs="tcp:46220:53"/>
+            <p>Ever since, says he, <hi>the Foundation of the Church has been shaken; things in the State have been out of Course; and 'tis in vain to hope for Settlement in the Latter, whilest the Former remains loose and unsettled.</hi>
+            </p>
+            <p>This Gentleman Writes after such a rate of Discontent, as if he had been defeated in his expectation of some Church-Preferment: For commonly all things are out of Course with such Men.</p>
+            <p>I would fain know, how the Foun<g ref="char:EOLhyphen"/>dation of the Church hath been shaken? The same <hi>Articles for Doctrine, the same Canons for Discipline, and the same Litur<g ref="char:EOLhyphen"/>gy for Devotion and Worship,</hi> continue in the Church. There are also the same sort of Officers in the Church as before: As, <hi>Archbishops, Bishops, Deans, Chan<g ref="char:EOLhyphen"/>cellors, Archdeacons, Officials, Surrogates, Registers,</hi> &amp;c. <hi>They have also a King, the Head of their Church,</hi> of the same Communion with them.</p>
+            <p>I cannot therefore imagine, why he should complain that the Foundation of the Church is shaken, unless be<g ref="char:EOLhyphen"/>cause the Power of Executing the <hi>Penal Laws</hi> against the Dissenters is taken a way.</p>
+            <pb n="98" facs="tcp:46220:54"/>
+            <p>But what a sorry Foundation are <hi>Penal Laws for the best Established Church in the Christian World?</hi>
+            </p>
+            <p>Our Saviour Built his Church on another sort of Foundation; which was <hi>Peters Confession, that he was the Christ, the Son of the Living God. On this Rock,</hi> says he, <hi>I will Build my Church; and the Gates of Hell shall not prevail against it.</hi> But if you go to Build a Church upon Worldly force, and Dominion, <hi>The Gates of Hell</hi> are taken in, to Support and Defend it.</p>
+            <p>Without doubt our Author would be well enough pleased, to have a Goal for an Out-House to every Temple.</p>
+            <p>But he is not content to complain, that <hi>the Foundation of the Church is shaken.</hi> For he tells us, <hi>things in the State are also out of Course.</hi>
+            </p>
+            <p>Why, doth not our Legislature con<g ref="char:EOLhyphen"/>tinue in King, Lords and Commons? doth His Majesty Arbitrarily Invade our Rights and Priviledges, as have been done in former Reigns? Is <hi>Magna Charta</hi> thrown aside, or are the Laws trampled on? Such Murmurers as this Gentleman, who do not know the va<g ref="char:EOLhyphen"/>lue of a good Government, deserve to
+<pb n="99" facs="tcp:46220:54"/> suffer under a Rigorous and severe one. They deserve to enter into <hi>the Land of Egypt, and into the House of Bondage,</hi> and to have the Reign of <hi>Rehoboam</hi> come upon them, <hi>that they might feel for some time, how much worse it is, to be Arbitrarily and Tyranni<g ref="char:EOLhyphen"/>cally dealt with, than to be under the Government of good Laws, and the Pro<g ref="char:EOLhyphen"/>tection of a Father of their Country.</hi>
+            </p>
+            <p>To Conclude, The Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> his Mother, owes her Son no acknowledgments for such Jacobitish muttering and complaints; and there are many other things in his Book which I am confident She will not thank him for; and which do rather deserve Her Censure than Her Coun<g ref="char:EOLhyphen"/>tenance and Approbation.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:46220:55"/>
+            <head>The Reader is desired to Correct these following Erratas of the Press.</head>
+            <p>PAg. 3. line 6. for <hi>obstrinxsit</hi> read <hi>obstrinxit.</hi> P. 5. l. 12. for <hi>Divines</hi> r. <hi>Divine.</hi> P. 21. l. 7. for <hi>there</hi> r. <hi>here.</hi> P. 22. l. 12. for <hi>this</hi> r. <hi>these.</hi> P. 33. l. 22. for <hi>time</hi> r. <hi>true.</hi> P. 40. l. 6. for <hi>beeter</hi> r. <hi>better.</hi> P. 50. l. 14. for <hi>Miler</hi> r. <hi>Miter.</hi> P. 54. l. 3. join the Letter <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> be<g ref="char:EOLhyphen"/>fore <hi>And</hi> to <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> that follows it. P. 64. l. 11. and p. 65. 21. for <hi>word</hi> r. <hi>words.</hi> P. 87. l. 22. for <hi>ratione</hi> r. <hi>rati<g ref="char:EOLhyphen"/>onis.</hi> P. 90. l. 1. for <hi>he gives out</hi> r. <hi>he says.</hi>
+            </p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:46220:56"/>
+            <p>A REPRIMAND TO BIGOTISM.</p>
+            <pb facs="tcp:46220:57"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:46220:57"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:46220:58"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:46220:58"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:46220:59"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:46220:59"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:46220:60"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:46220:60"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:46220:61"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="1" facs="tcp:46220:61"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:46220:62"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:46220:62"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:46220:63"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="5" facs="tcp:46220:63"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="6" facs="tcp:46220:64"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:46220:64"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="8" facs="tcp:46220:65"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="9" facs="tcp:46220:65"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="10" facs="tcp:46220:66"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="11" facs="tcp:46220:66"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
